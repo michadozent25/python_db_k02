@@ -1,0 +1,51 @@
+# Python-Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuelle Umgebungen
+venv/
+.venv/
+env/
+.env/
+
+# Umgebungsvariablen und Zugangsdaten
+.env
+.env.*
+!.env.example
+
+# Build-Dateien
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Tests und Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Type-Checker und Linter
+.mypy_cache/
+.pyright/
+.ruff_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Log- und temporäre Dateien
+*.log
+*.tmp
