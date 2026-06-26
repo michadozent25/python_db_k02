@@ -6,12 +6,12 @@ from csv_reader import load_csv
 def main():
     conn = connect_db()
     repo =  BookRepository(conn)
-    # repo.save( Book(title="Schönes Kochbuch",author="Maxe", genre="Sachbuch",published_year=2000))
+    #repo.save( Book(title="Schönes Kochbuch",author="Maxe", genre="Sachbuch",published_year=2000))
     
     book_list = load_csv('books.csv')
-    print(book_list)
+    #print(book_list)
 
-    #repo.save_books(book_list)
+    repo.save_books(book_list)
 
 if __name__=="__main__":
     main()

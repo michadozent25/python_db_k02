@@ -1,6 +1,7 @@
 from models import Book
+from mysql.connector import MySQLConnection
 class BookRepository:
-    def __init__(self,conn):
+    def __init__(self,conn:MySQLConnection):
         self.conn=conn
 
 
@@ -23,6 +24,23 @@ class BookRepository:
     def save_books(self, book_list:list[Book]):
         ''' speichert alle Datensätze der übergebenen book_list'''
         #executemany
+        try:
+            cursor = self.conn.cursor()
+            q = """
+            INSERT INTO books (title, author, genre, published_year)
+            VALUES (%s,%s,%s,%s)
+            """
+            values = [(b.title, b.author, b.genre,b.published_year) for b in book_list]
+            cursor.executemany(q,values)
+            self.conn.commit()
+            cursor.close()
+
+        except Exception as e:
+            
+            print(e)
+
+
+
 
 
 

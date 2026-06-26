@@ -15,7 +15,14 @@ def load_csv(filename:str)->list[Book]:
    
            # Book-Objekte erzeugen
            # Books zur book_list hinzufügen 
-           book_list.append(Book( ... ))
+           book = Book(
+               id = int( row['id']),
+               title = row['title'],
+               author = row['author'],
+               genre = row['genre'],
+               published_year = int( row['published_year'])
+           )
+           book_list.append(book)
     return book_list
 
 #print(load_csv('users.csv'))
