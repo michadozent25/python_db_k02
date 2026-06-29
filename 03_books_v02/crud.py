@@ -46,10 +46,34 @@ class BookRepository:
 
     def find_all(self)->list[Book]:
         try:
-            cursor = self.conn.cursor()# self.conn.cursor(dictionary=True)
+            cursor = self.conn.cursor(dictionary=True)# self.conn.cursor(dictionary=True) -> später Entpacken!
+            q =  "SELECT * FROM books"
+            cursor.execute(q)
+            result = cursor.fetchall()
+            return [Book(**row) for row in result]
 
 
-
+        except Exception as e:
+            print(e)
+        finally:
+            if cursor is not None:
+                cursor.close()
+    def delete_by_id(self,id:int)-> bool:
+        """
+        Args:
+            id: Primary Key from book
+        Return:
+            True, wenn erfolgreich gelöscht
+        Raise:
+        
+        """
+        try:
+            cursor = self.conn.cursor()
+            q ="DELETE FROM BOOKS WHERE id =%s"
+            cursor.execute(q, (id,) )
+            self.conn.commit()
+            del_rows = cursor.rowcount
+            return del_rows == 1 # True if 1 dataset deleted
         except Exception as e:
             print(e)
         finally:
