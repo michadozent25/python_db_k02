@@ -1,6 +1,6 @@
 from models import User
 from sqlalchemy.orm import Session
-from sqlalchemy import text, select
+from sqlalchemy import text,select
 
 class UserRepository:
 
@@ -25,7 +25,14 @@ class UserRepository:
             self.session.delete(user)
             self.session.commit()
         return user
+    
+    def find_user_by_name(self, name:str)->list[User]:
+        stmt = text("select * from user where name like :name" )# SQL-Schreibweise
+        return self.session.execute(stmt,{"name":f"%{name}%"} )
 
 
+    def find_user_by_name2(self,name:str)->list[User]:
+        stmt =  select(User).where(User.name.ilike(f"%{name}%"))
+        return self.session.execute(stmt).scalars().all()
 
     

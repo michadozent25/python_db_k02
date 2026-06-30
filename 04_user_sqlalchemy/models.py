@@ -8,4 +8,4 @@ class User(Base):
     email = Column(String(50),nullable=False, unique=True)
 
     def __repr__(self):
-        return  f"User id={self.id}, name={self.name}, email={self.email}" #to string
+        return  f"User id={self.id}, name={self.name}, email={self.email}"

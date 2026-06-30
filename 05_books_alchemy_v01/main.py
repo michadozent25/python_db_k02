@@ -1,0 +1,25 @@
+from database import Base, engine, session
+from models import Book
+from crud import BookRepository
+
+
+
+def main():
+
+    Base.metadata.drop_all(engine)
+    Base.metadata.create_all(engine) # create if not exists
+    repo = BookRepository(session)
+    repo.save(Book(title="Schönes Kochbuch",author="Maxe", genre="Sachbuch",published_year=2000))
+    repo.save(Book(title="Kochbuch2",author="Otto", genre="Sachbuch",published_year=2009))
+  
+
+    all_books = repo.find_all()
+    print(all_books) 
+    print("find by genre: ",repo.find_by_genre("Sachbuch"))
+    del_book = repo.delete_by_id(1)
+    print("delete:", del_book)
+
+ 
+
+if __name__ == "__main__":
+    main()
