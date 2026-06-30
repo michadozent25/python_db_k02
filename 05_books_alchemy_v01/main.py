@@ -9,12 +9,14 @@ def main():
     Base.metadata.drop_all(engine)
     Base.metadata.create_all(engine) # create if not exists
     repo = BookRepository(session)
-    repo.save(Book(title="Schönes Kochbuch",author="Maxe", genre="Sachbuch",published_year=2000))
-    repo.save(Book(title="Kochbuch2",author="Otto", genre="Sachbuch",published_year=2009))
-  
+    # repo.save(Book(title="Schönes Kochbuch",author="Maxe", genre="Sachbuch",published_year=2000))
+    # repo.save(Book(title="Kochbuch2",author="Otto", genre="Sachbuch",published_year=2009))
+    repo.import_books("json/books.json")
 
     all_books = repo.find_all()
-    print(all_books) 
+    for book in all_books:
+        print(book)
+
     print("find by genre: ",repo.find_by_genre("Sachbuch"))
     del_book = repo.delete_by_id(1)
     print("delete:", del_book)

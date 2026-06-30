@@ -1,6 +1,7 @@
 from models import Book
 from sqlalchemy.orm import Session
 from sqlalchemy import select
+import json
 
 
 class BookRepository:
@@ -26,3 +27,13 @@ class BookRepository:
     def find_by_genre(self, genre:str)-> list[Book]:
         stmt = select(Book).where(Book.genre.ilike(f"%{genre}%"))
         return list(self.session.scalars(stmt).all())
+    
+    def import_books(self,filename:str):
+        with open(filename,encoding="utf-8") as file:
+              data = json.load(file) 
+        books =[
+             Book(**book_data)  
+             for book_data in data["books"] # books == json-root
+        ]
+        self.session.add_all(books)
+        self.session.commit()
