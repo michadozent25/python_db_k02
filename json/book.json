@@ -1,0 +1,4003 @@
+{
+"book": [
+	{
+		"id" : 1,
+		"title" : "The Shining Vol. 3",
+		"genre" : "Adventure",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1921,
+		"isbn" : "8715968138671"
+	},
+	{
+		"id" : 2,
+		"title" : "The Way of Kings Vol. 6",
+		"genre" : "Science Fiction",
+		"author" : "George Orwell",
+		"published_year" : 1945,
+		"isbn" : "5338299617727"
+	},
+	{
+		"id" : 3,
+		"title" : "The Hobbit Vol. 6",
+		"genre" : "Horror",
+		"author" : "Jane Austen",
+		"published_year" : 2024,
+		"isbn" : "5737958298674"
+	},
+	{
+		"id" : 4,
+		"title" : "1984 Vol. 7",
+		"genre" : "Mystery",
+		"author" : "J.K. Rowling",
+		"published_year" : 1875,
+		"isbn" : "3240505188892"
+	},
+	{
+		"id" : 5,
+		"title" : "It Vol. 7",
+		"genre" : "Dystopian",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1954,
+		"isbn" : "6832004018702"
+	},
+	{
+		"id" : 6,
+		"title" : "The Hobbit Vol. 2",
+		"genre" : "Mystery",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1929,
+		"isbn" : "5612195833782"
+	},
+	{
+		"id" : 7,
+		"title" : "The Final Empire Vol. 4",
+		"genre" : "Thriller",
+		"author" : "Aldous Huxley",
+		"published_year" : 1915,
+		"isbn" : "9792497668204"
+	},
+	{
+		"id" : 8,
+		"title" : "Neuromancer Vol. 9",
+		"genre" : "Adventure",
+		"author" : "Ernest Hemingway",
+		"published_year" : 2002,
+		"isbn" : "6295052034593"
+	},
+	{
+		"id" : 9,
+		"title" : "The Way of Kings Vol. 1",
+		"genre" : "Mystery",
+		"author" : "J.K. Rowling",
+		"published_year" : 1864,
+		"isbn" : "3854250342569"
+	},
+	{
+		"id" : 10,
+		"title" : "Dune Vol. 3",
+		"genre" : "Mystery",
+		"author" : "Mark Twain",
+		"published_year" : 1912,
+		"isbn" : "8616047676108"
+	},
+	{
+		"id" : 11,
+		"title" : "The Final Empire Vol. 9",
+		"genre" : "Adventure",
+		"author" : "Isaac Asimov",
+		"published_year" : 1890,
+		"isbn" : "2626664130271"
+	},
+	{
+		"id" : 12,
+		"title" : "Moby Dick Vol. 4",
+		"genre" : "Thriller",
+		"author" : "Isaac Asimov",
+		"published_year" : 1937,
+		"isbn" : "2870088506654"
+	},
+	{
+		"id" : 13,
+		"title" : "Fahrenheit 451 Vol. 6",
+		"genre" : "Mystery",
+		"author" : "H.G. Wells",
+		"published_year" : 1909,
+		"isbn" : "9780050706472"
+	},
+	{
+		"id" : 14,
+		"title" : "Brave New World Vol. 9",
+		"genre" : "Dystopian",
+		"author" : "Mark Twain",
+		"published_year" : 1919,
+		"isbn" : "3373510811844"
+	},
+	{
+		"id" : 15,
+		"title" : "The Lost World Vol. 6",
+		"genre" : "Horror",
+		"author" : "Ray Bradbury",
+		"published_year" : 1917,
+		"isbn" : "8549257414051"
+	},
+	{
+		"id" : 16,
+		"title" : "Fahrenheit 451 Vol. 9",
+		"genre" : "Fantasy",
+		"author" : "J.K. Rowling",
+		"published_year" : 1927,
+		"isbn" : "4255675651309"
+	},
+	{
+		"id" : 17,
+		"title" : "To Kill a Mockingbird Vol. 9",
+		"genre" : "Dystopian",
+		"author" : "Stephen King",
+		"published_year" : 2014,
+		"isbn" : "4442064247575"
+	},
+	{
+		"id" : 18,
+		"title" : "Moby Dick Vol. 2",
+		"genre" : "Fantasy",
+		"author" : "Harper Lee",
+		"published_year" : 2011,
+		"isbn" : "5883217470470"
+	},
+	{
+		"id" : 19,
+		"title" : "The Great Gatsby Vol. 8",
+		"genre" : "Science Fiction",
+		"author" : "George Orwell",
+		"published_year" : 1945,
+		"isbn" : "4279105819982"
+	},
+	{
+		"id" : 20,
+		"title" : "To Kill a Mockingbird Vol. 10",
+		"genre" : "Mystery",
+		"author" : "Aldous Huxley",
+		"published_year" : 1977,
+		"isbn" : "4017619740892"
+	},
+	{
+		"id" : 21,
+		"title" : "Pride and Prejudice Vol. 6",
+		"genre" : "Thriller",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1980,
+		"isbn" : "9664714501016"
+	},
+	{
+		"id" : 22,
+		"title" : "The Great Gatsby Vol. 2",
+		"genre" : "Classic",
+		"author" : "Jane Austen",
+		"published_year" : 1868,
+		"isbn" : "4715690424009"
+	},
+	{
+		"id" : 23,
+		"title" : "Brave New World Vol. 6",
+		"genre" : "Thriller",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1925,
+		"isbn" : "7944137904427"
+	},
+	{
+		"id" : 24,
+		"title" : "The Lost World Vol. 9",
+		"genre" : "Science Fiction",
+		"author" : "George Orwell",
+		"published_year" : 1880,
+		"isbn" : "6362378807294"
+	},
+	{
+		"id" : 25,
+		"title" : "The Great Gatsby Vol. 8",
+		"genre" : "Classic",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1858,
+		"isbn" : "5034629019581"
+	},
+	{
+		"id" : 26,
+		"title" : "Moby Dick Vol. 2",
+		"genre" : "Science Fiction",
+		"author" : "Isaac Asimov",
+		"published_year" : 1933,
+		"isbn" : "7495047244714"
+	},
+	{
+		"id" : 27,
+		"title" : "Fahrenheit 451 Vol. 10",
+		"genre" : "Mystery",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 2000,
+		"isbn" : "8876088658644"
+	},
+	{
+		"id" : 28,
+		"title" : "The Final Empire Vol. 2",
+		"genre" : "Fantasy",
+		"author" : "Ray Bradbury",
+		"published_year" : 1999,
+		"isbn" : "5576608473235"
+	},
+	{
+		"id" : 29,
+		"title" : "The Final Empire Vol. 9",
+		"genre" : "Thriller",
+		"author" : "J.K. Rowling",
+		"published_year" : 2006,
+		"isbn" : "6855691232536"
+	},
+	{
+		"id" : 30,
+		"title" : "The Shining Vol. 1",
+		"genre" : "Adventure",
+		"author" : "J.K. Rowling",
+		"published_year" : 1870,
+		"isbn" : "2864147549757"
+	},
+	{
+		"id" : 31,
+		"title" : "The Final Empire Vol. 4",
+		"genre" : "Science Fiction",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1935,
+		"isbn" : "3697653973301"
+	},
+	{
+		"id" : 32,
+		"title" : "To Kill a Mockingbird Vol. 2",
+		"genre" : "Horror",
+		"author" : "H.G. Wells",
+		"published_year" : 1993,
+		"isbn" : "1832494910077"
+	},
+	{
+		"id" : 33,
+		"title" : "It Vol. 10",
+		"genre" : "Dystopian",
+		"author" : "H.G. Wells",
+		"published_year" : 2001,
+		"isbn" : "3901129027234"
+	},
+	{
+		"id" : 34,
+		"title" : "The Lost World Vol. 10",
+		"genre" : "Fantasy",
+		"author" : "H.G. Wells",
+		"published_year" : 1907,
+		"isbn" : "3036136749778"
+	},
+	{
+		"id" : 35,
+		"title" : "The Hobbit Vol. 6",
+		"genre" : "Fantasy",
+		"author" : "George Orwell",
+		"published_year" : 1925,
+		"isbn" : "1235811351641"
+	},
+	{
+		"id" : 36,
+		"title" : "Fahrenheit 451 Vol. 8",
+		"genre" : "Fantasy",
+		"author" : "Harper Lee",
+		"published_year" : 2015,
+		"isbn" : "2713222180822"
+	},
+	{
+		"id" : 37,
+		"title" : "Dune Vol. 6",
+		"genre" : "Thriller",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1963,
+		"isbn" : "9119391321439"
+	},
+	{
+		"id" : 38,
+		"title" : "The Final Empire Vol. 5",
+		"genre" : "Horror",
+		"author" : "J.K. Rowling",
+		"published_year" : 2013,
+		"isbn" : "9240053531320"
+	},
+	{
+		"id" : 39,
+		"title" : "Brave New World Vol. 8",
+		"genre" : "Mystery",
+		"author" : "Jane Austen",
+		"published_year" : 1883,
+		"isbn" : "7191196826827"
+	},
+	{
+		"id" : 40,
+		"title" : "The Lost World Vol. 4",
+		"genre" : "Mystery",
+		"author" : "H.G. Wells",
+		"published_year" : 1901,
+		"isbn" : "6182173582002"
+	},
+	{
+		"id" : 41,
+		"title" : "Pride and Prejudice Vol. 2",
+		"genre" : "Mystery",
+		"author" : "Mark Twain",
+		"published_year" : 2020,
+		"isbn" : "7935761742475"
+	},
+	{
+		"id" : 42,
+		"title" : "Moby Dick Vol. 6",
+		"genre" : "Adventure",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1908,
+		"isbn" : "6666021045356"
+	},
+	{
+		"id" : 43,
+		"title" : "Pride and Prejudice Vol. 7",
+		"genre" : "Fantasy",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 2010,
+		"isbn" : "4739439703899"
+	},
+	{
+		"id" : 44,
+		"title" : "To Kill a Mockingbird Vol. 6",
+		"genre" : "Science Fiction",
+		"author" : "Mark Twain",
+		"published_year" : 1958,
+		"isbn" : "4197396455986"
+	},
+	{
+		"id" : 45,
+		"title" : "The Final Empire Vol. 8",
+		"genre" : "Fantasy",
+		"author" : "H.G. Wells",
+		"published_year" : 1914,
+		"isbn" : "9411020756075"
+	},
+	{
+		"id" : 46,
+		"title" : "Moby Dick Vol. 2",
+		"genre" : "Dystopian",
+		"author" : "H.G. Wells",
+		"published_year" : 2017,
+		"isbn" : "5249042182494"
+	},
+	{
+		"id" : 47,
+		"title" : "Brave New World Vol. 1",
+		"genre" : "Fantasy",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1903,
+		"isbn" : "5152204011146"
+	},
+	{
+		"id" : 48,
+		"title" : "Dune Vol. 2",
+		"genre" : "Mystery",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1982,
+		"isbn" : "4616509448594"
+	},
+	{
+		"id" : 49,
+		"title" : "It Vol. 2",
+		"genre" : "Horror",
+		"author" : "George Orwell",
+		"published_year" : 2001,
+		"isbn" : "5431609787704"
+	},
+	{
+		"id" : 50,
+		"title" : "The Way of Kings Vol. 6",
+		"genre" : "Adventure",
+		"author" : "Mark Twain",
+		"published_year" : 1888,
+		"isbn" : "3439651075077"
+	},
+	{
+		"id" : 51,
+		"title" : "The Lost World Vol. 3",
+		"genre" : "Thriller",
+		"author" : "George Orwell",
+		"published_year" : 1984,
+		"isbn" : "9574273132277"
+	},
+	{
+		"id" : 52,
+		"title" : "Dune Vol. 8",
+		"genre" : "Science Fiction",
+		"author" : "Stephen King",
+		"published_year" : 1996,
+		"isbn" : "2314248644562"
+	},
+	{
+		"id" : 53,
+		"title" : "To Kill a Mockingbird Vol. 5",
+		"genre" : "Mystery",
+		"author" : "Isaac Asimov",
+		"published_year" : 1916,
+		"isbn" : "2353152908866"
+	},
+	{
+		"id" : 54,
+		"title" : "Pride and Prejudice Vol. 10",
+		"genre" : "Dystopian",
+		"author" : "Aldous Huxley",
+		"published_year" : 1927,
+		"isbn" : "1095526129509"
+	},
+	{
+		"id" : 55,
+		"title" : "Fahrenheit 451 Vol. 6",
+		"genre" : "Classic",
+		"author" : "Jane Austen",
+		"published_year" : 1964,
+		"isbn" : "8471381357213"
+	},
+	{
+		"id" : 56,
+		"title" : "The Great Gatsby Vol. 3",
+		"genre" : "Science Fiction",
+		"author" : "Jane Austen",
+		"published_year" : 2012,
+		"isbn" : "3769740944271"
+	},
+	{
+		"id" : 57,
+		"title" : "Brave New World Vol. 1",
+		"genre" : "Horror",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1984,
+		"isbn" : "7340786633206"
+	},
+	{
+		"id" : 58,
+		"title" : "Fahrenheit 451 Vol. 4",
+		"genre" : "Dystopian",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 2024,
+		"isbn" : "9314228746890"
+	},
+	{
+		"id" : 59,
+		"title" : "To Kill a Mockingbird Vol. 5",
+		"genre" : "Fantasy",
+		"author" : "George Orwell",
+		"published_year" : 1859,
+		"isbn" : "5477588144624"
+	},
+	{
+		"id" : 60,
+		"title" : "Brave New World Vol. 10",
+		"genre" : "Horror",
+		"author" : "Jane Austen",
+		"published_year" : 1928,
+		"isbn" : "8962770314273"
+	},
+	{
+		"id" : 61,
+		"title" : "Dune Vol. 2",
+		"genre" : "Mystery",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1960,
+		"isbn" : "8331594231098"
+	},
+	{
+		"id" : 62,
+		"title" : "The Lost World Vol. 3",
+		"genre" : "Classic",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 2023,
+		"isbn" : "3932324420721"
+	},
+	{
+		"id" : 63,
+		"title" : "Fahrenheit 451 Vol. 3",
+		"genre" : "Dystopian",
+		"author" : "Jane Austen",
+		"published_year" : 1864,
+		"isbn" : "1852243361283"
+	},
+	{
+		"id" : 64,
+		"title" : "Brave New World Vol. 2",
+		"genre" : "Classic",
+		"author" : "George Orwell",
+		"published_year" : 1932,
+		"isbn" : "1668071699068"
+	},
+	{
+		"id" : 65,
+		"title" : "Dune Vol. 10",
+		"genre" : "Mystery",
+		"author" : "Harper Lee",
+		"published_year" : 1972,
+		"isbn" : "7160343414641"
+	},
+	{
+		"id" : 66,
+		"title" : "The Hobbit Vol. 4",
+		"genre" : "Mystery",
+		"author" : "George Orwell",
+		"published_year" : 1897,
+		"isbn" : "1102020031147"
+	},
+	{
+		"id" : 67,
+		"title" : "The Lost World Vol. 1",
+		"genre" : "Classic",
+		"author" : "Jane Austen",
+		"published_year" : 1914,
+		"isbn" : "7536120862162"
+	},
+	{
+		"id" : 68,
+		"title" : "The Great Gatsby Vol. 1",
+		"genre" : "Horror",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1895,
+		"isbn" : "2108169238828"
+	},
+	{
+		"id" : 69,
+		"title" : "To Kill a Mockingbird Vol. 4",
+		"genre" : "Science Fiction",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1950,
+		"isbn" : "9280612546004"
+	},
+	{
+		"id" : 70,
+		"title" : "The Hobbit Vol. 7",
+		"genre" : "Thriller",
+		"author" : "Isaac Asimov",
+		"published_year" : 1956,
+		"isbn" : "2256980537526"
+	},
+	{
+		"id" : 71,
+		"title" : "The Shining Vol. 5",
+		"genre" : "Science Fiction",
+		"author" : "Harper Lee",
+		"published_year" : 2011,
+		"isbn" : "3275972993170"
+	},
+	{
+		"id" : 72,
+		"title" : "Brave New World Vol. 1",
+		"genre" : "Classic",
+		"author" : "Harper Lee",
+		"published_year" : 1983,
+		"isbn" : "2833985501064"
+	},
+	{
+		"id" : 73,
+		"title" : "Fahrenheit 451 Vol. 6",
+		"genre" : "Adventure",
+		"author" : "Ernest Hemingway",
+		"published_year" : 2001,
+		"isbn" : "7390577238405"
+	},
+	{
+		"id" : 74,
+		"title" : "Pride and Prejudice Vol. 8",
+		"genre" : "Dystopian",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1954,
+		"isbn" : "8107248906513"
+	},
+	{
+		"id" : 75,
+		"title" : "The Shining Vol. 3",
+		"genre" : "Fantasy",
+		"author" : "Jane Austen",
+		"published_year" : 1886,
+		"isbn" : "9326512786728"
+	},
+	{
+		"id" : 76,
+		"title" : "The Way of Kings Vol. 2",
+		"genre" : "Fantasy",
+		"author" : "Mark Twain",
+		"published_year" : 1965,
+		"isbn" : "8046827972166"
+	},
+	{
+		"id" : 77,
+		"title" : "To Kill a Mockingbird Vol. 2",
+		"genre" : "Classic",
+		"author" : "Mark Twain",
+		"published_year" : 2000,
+		"isbn" : "4402291161779"
+	},
+	{
+		"id" : 78,
+		"title" : "The Final Empire Vol. 5",
+		"genre" : "Thriller",
+		"author" : "Jane Austen",
+		"published_year" : 2007,
+		"isbn" : "7086642400425"
+	},
+	{
+		"id" : 79,
+		"title" : "The Final Empire Vol. 4",
+		"genre" : "Dystopian",
+		"author" : "Ray Bradbury",
+		"published_year" : 1898,
+		"isbn" : "2320590959399"
+	},
+	{
+		"id" : 80,
+		"title" : "Dune Vol. 4",
+		"genre" : "Thriller",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1855,
+		"isbn" : "4919032530044"
+	},
+	{
+		"id" : 81,
+		"title" : "The Hobbit Vol. 4",
+		"genre" : "Fantasy",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1883,
+		"isbn" : "8923352281167"
+	},
+	{
+		"id" : 82,
+		"title" : "It Vol. 7",
+		"genre" : "Horror",
+		"author" : "Jane Austen",
+		"published_year" : 1938,
+		"isbn" : "9526153531936"
+	},
+	{
+		"id" : 83,
+		"title" : "Fahrenheit 451 Vol. 2",
+		"genre" : "Mystery",
+		"author" : "Jane Austen",
+		"published_year" : 1992,
+		"isbn" : "6443746295770"
+	},
+	{
+		"id" : 84,
+		"title" : "Neuromancer Vol. 2",
+		"genre" : "Dystopian",
+		"author" : "Ray Bradbury",
+		"published_year" : 1931,
+		"isbn" : "2684643337991"
+	},
+	{
+		"id" : 85,
+		"title" : "Fahrenheit 451 Vol. 7",
+		"genre" : "Horror",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1896,
+		"isbn" : "7657204756906"
+	},
+	{
+		"id" : 86,
+		"title" : "Neuromancer Vol. 7",
+		"genre" : "Dystopian",
+		"author" : "J.K. Rowling",
+		"published_year" : 1937,
+		"isbn" : "2811803202545"
+	},
+	{
+		"id" : 87,
+		"title" : "To Kill a Mockingbird Vol. 8",
+		"genre" : "Dystopian",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1958,
+		"isbn" : "3178580159787"
+	},
+	{
+		"id" : 88,
+		"title" : "Fahrenheit 451 Vol. 2",
+		"genre" : "Mystery",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1857,
+		"isbn" : "4550686393679"
+	},
+	{
+		"id" : 89,
+		"title" : "The Lost World Vol. 2",
+		"genre" : "Horror",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1858,
+		"isbn" : "2881915922727"
+	},
+	{
+		"id" : 90,
+		"title" : "The Final Empire Vol. 4",
+		"genre" : "Mystery",
+		"author" : "Aldous Huxley",
+		"published_year" : 1866,
+		"isbn" : "7126965799288"
+	},
+	{
+		"id" : 91,
+		"title" : "The Great Gatsby Vol. 7",
+		"genre" : "Classic",
+		"author" : "Harper Lee",
+		"published_year" : 1912,
+		"isbn" : "3267350806870"
+	},
+	{
+		"id" : 92,
+		"title" : "The Way of Kings Vol. 8",
+		"genre" : "Adventure",
+		"author" : "Harper Lee",
+		"published_year" : 1970,
+		"isbn" : "6023796876563"
+	},
+	{
+		"id" : 93,
+		"title" : "The Final Empire Vol. 6",
+		"genre" : "Thriller",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1968,
+		"isbn" : "3789978655730"
+	},
+	{
+		"id" : 94,
+		"title" : "The Final Empire Vol. 7",
+		"genre" : "Science Fiction",
+		"author" : "Jane Austen",
+		"published_year" : 1918,
+		"isbn" : "3548153482363"
+	},
+	{
+		"id" : 95,
+		"title" : "It Vol. 7",
+		"genre" : "Fantasy",
+		"author" : "Isaac Asimov",
+		"published_year" : 1871,
+		"isbn" : "2474682313732"
+	},
+	{
+		"id" : 96,
+		"title" : "Pride and Prejudice Vol. 5",
+		"genre" : "Horror",
+		"author" : "Brandon Sanderson",
+		"published_year" : 2008,
+		"isbn" : "7957925890061"
+	},
+	{
+		"id" : 97,
+		"title" : "It Vol. 4",
+		"genre" : "Adventure",
+		"author" : "Ray Bradbury",
+		"published_year" : 1928,
+		"isbn" : "6179531621447"
+	},
+	{
+		"id" : 98,
+		"title" : "The Way of Kings Vol. 3",
+		"genre" : "Classic",
+		"author" : "Ernest Hemingway",
+		"published_year" : 2024,
+		"isbn" : "3545409423945"
+	},
+	{
+		"id" : 99,
+		"title" : "Pride and Prejudice Vol. 5",
+		"genre" : "Thriller",
+		"author" : "Ray Bradbury",
+		"published_year" : 1858,
+		"isbn" : "8941205747753"
+	},
+	{
+		"id" : 100,
+		"title" : "Neuromancer Vol. 5",
+		"genre" : "Horror",
+		"author" : "Mark Twain",
+		"published_year" : 1963,
+		"isbn" : "9159366006913"
+	},
+	{
+		"id" : 101,
+		"title" : "Dune Vol. 10",
+		"genre" : "Horror",
+		"author" : "Mark Twain",
+		"published_year" : 1859,
+		"isbn" : "1399135475623"
+	},
+	{
+		"id" : 102,
+		"title" : "The Lost World Vol. 7",
+		"genre" : "Horror",
+		"author" : "Jane Austen",
+		"published_year" : 1902,
+		"isbn" : "5965634951387"
+	},
+	{
+		"id" : 103,
+		"title" : "The Shining Vol. 3",
+		"genre" : "Mystery",
+		"author" : "Mark Twain",
+		"published_year" : 1941,
+		"isbn" : "7472175632294"
+	},
+	{
+		"id" : 104,
+		"title" : "The Great Gatsby Vol. 8",
+		"genre" : "Thriller",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1895,
+		"isbn" : "8302252123271"
+	},
+	{
+		"id" : 105,
+		"title" : "Brave New World Vol. 4",
+		"genre" : "Classic",
+		"author" : "George Orwell",
+		"published_year" : 1952,
+		"isbn" : "9883867541285"
+	},
+	{
+		"id" : 106,
+		"title" : "Pride and Prejudice Vol. 3",
+		"genre" : "Thriller",
+		"author" : "Ray Bradbury",
+		"published_year" : 1946,
+		"isbn" : "7919687869529"
+	},
+	{
+		"id" : 107,
+		"title" : "Pride and Prejudice Vol. 3",
+		"genre" : "Dystopian",
+		"author" : "Aldous Huxley",
+		"published_year" : 1896,
+		"isbn" : "5386448802314"
+	},
+	{
+		"id" : 108,
+		"title" : "Neuromancer Vol. 1",
+		"genre" : "Mystery",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1882,
+		"isbn" : "3498488168536"
+	},
+	{
+		"id" : 109,
+		"title" : "The Lost World Vol. 4",
+		"genre" : "Science Fiction",
+		"author" : "Aldous Huxley",
+		"published_year" : 1885,
+		"isbn" : "2222471655685"
+	},
+	{
+		"id" : 110,
+		"title" : "Dune Vol. 6",
+		"genre" : "Mystery",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 2008,
+		"isbn" : "8946692956415"
+	},
+	{
+		"id" : 111,
+		"title" : "Moby Dick Vol. 8",
+		"genre" : "Adventure",
+		"author" : "Mark Twain",
+		"published_year" : 1856,
+		"isbn" : "7789994647458"
+	},
+	{
+		"id" : 112,
+		"title" : "1984 Vol. 3",
+		"genre" : "Dystopian",
+		"author" : "Mark Twain",
+		"published_year" : 1994,
+		"isbn" : "8061616421477"
+	},
+	{
+		"id" : 113,
+		"title" : "It Vol. 4",
+		"genre" : "Fantasy",
+		"author" : "George Orwell",
+		"published_year" : 1893,
+		"isbn" : "1490988028858"
+	},
+	{
+		"id" : 114,
+		"title" : "Dune Vol. 4",
+		"genre" : "Thriller",
+		"author" : "Harper Lee",
+		"published_year" : 1965,
+		"isbn" : "3074983455410"
+	},
+	{
+		"id" : 115,
+		"title" : "To Kill a Mockingbird Vol. 9",
+		"genre" : "Science Fiction",
+		"author" : "H.G. Wells",
+		"published_year" : 1998,
+		"isbn" : "3936470300251"
+	},
+	{
+		"id" : 116,
+		"title" : "Pride and Prejudice Vol. 3",
+		"genre" : "Horror",
+		"author" : "Mark Twain",
+		"published_year" : 2024,
+		"isbn" : "6968322474482"
+	},
+	{
+		"id" : 117,
+		"title" : "The Lost World Vol. 3",
+		"genre" : "Thriller",
+		"author" : "Jane Austen",
+		"published_year" : 1898,
+		"isbn" : "6462012514045"
+	},
+	{
+		"id" : 118,
+		"title" : "The Lost World Vol. 1",
+		"genre" : "Fantasy",
+		"author" : "Ray Bradbury",
+		"published_year" : 1895,
+		"isbn" : "9735656012733"
+	},
+	{
+		"id" : 119,
+		"title" : "The Lost World Vol. 4",
+		"genre" : "Mystery",
+		"author" : "H.G. Wells",
+		"published_year" : 1989,
+		"isbn" : "9351212832147"
+	},
+	{
+		"id" : 120,
+		"title" : "It Vol. 5",
+		"genre" : "Classic",
+		"author" : "Isaac Asimov",
+		"published_year" : 2020,
+		"isbn" : "8273166789318"
+	},
+	{
+		"id" : 121,
+		"title" : "The Lost World Vol. 7",
+		"genre" : "Science Fiction",
+		"author" : "Jane Austen",
+		"published_year" : 1962,
+		"isbn" : "5104709815541"
+	},
+	{
+		"id" : 122,
+		"title" : "The Lost World Vol. 8",
+		"genre" : "Thriller",
+		"author" : "J.K. Rowling",
+		"published_year" : 1947,
+		"isbn" : "8642857236515"
+	},
+	{
+		"id" : 123,
+		"title" : "Neuromancer Vol. 7",
+		"genre" : "Mystery",
+		"author" : "J.K. Rowling",
+		"published_year" : 1976,
+		"isbn" : "1057180092682"
+	},
+	{
+		"id" : 124,
+		"title" : "Fahrenheit 451 Vol. 7",
+		"genre" : "Adventure",
+		"author" : "H.G. Wells",
+		"published_year" : 1964,
+		"isbn" : "3265905984509"
+	},
+	{
+		"id" : 125,
+		"title" : "It Vol. 1",
+		"genre" : "Classic",
+		"author" : "J.K. Rowling",
+		"published_year" : 1853,
+		"isbn" : "6204767319645"
+	},
+	{
+		"id" : 126,
+		"title" : "Dune Vol. 9",
+		"genre" : "Mystery",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 2021,
+		"isbn" : "9065298144365"
+	},
+	{
+		"id" : 127,
+		"title" : "It Vol. 4",
+		"genre" : "Fantasy",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1971,
+		"isbn" : "3488328644135"
+	},
+	{
+		"id" : 128,
+		"title" : "The Final Empire Vol. 7",
+		"genre" : "Thriller",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 2020,
+		"isbn" : "9288997027161"
+	},
+	{
+		"id" : 129,
+		"title" : "Pride and Prejudice Vol. 8",
+		"genre" : "Science Fiction",
+		"author" : "Stephen King",
+		"published_year" : 1915,
+		"isbn" : "2878668121206"
+	},
+	{
+		"id" : 130,
+		"title" : "Brave New World Vol. 10",
+		"genre" : "Fantasy",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1977,
+		"isbn" : "2626008409539"
+	},
+	{
+		"id" : 131,
+		"title" : "The Great Gatsby Vol. 3",
+		"genre" : "Science Fiction",
+		"author" : "Mark Twain",
+		"published_year" : 1997,
+		"isbn" : "5206870911854"
+	},
+	{
+		"id" : 132,
+		"title" : "Neuromancer Vol. 8",
+		"genre" : "Fantasy",
+		"author" : "H.G. Wells",
+		"published_year" : 1864,
+		"isbn" : "9177994683354"
+	},
+	{
+		"id" : 133,
+		"title" : "Moby Dick Vol. 9",
+		"genre" : "Horror",
+		"author" : "Ray Bradbury",
+		"published_year" : 1980,
+		"isbn" : "3422444556217"
+	},
+	{
+		"id" : 134,
+		"title" : "Neuromancer Vol. 1",
+		"genre" : "Thriller",
+		"author" : "Ray Bradbury",
+		"published_year" : 1954,
+		"isbn" : "6106269290636"
+	},
+	{
+		"id" : 135,
+		"title" : "It Vol. 10",
+		"genre" : "Classic",
+		"author" : "Isaac Asimov",
+		"published_year" : 1984,
+		"isbn" : "2989728225329"
+	},
+	{
+		"id" : 136,
+		"title" : "The Shining Vol. 5",
+		"genre" : "Adventure",
+		"author" : "Stephen King",
+		"published_year" : 1976,
+		"isbn" : "9734469892776"
+	},
+	{
+		"id" : 137,
+		"title" : "Brave New World Vol. 8",
+		"genre" : "Thriller",
+		"author" : "Ernest Hemingway",
+		"published_year" : 2004,
+		"isbn" : "6557892896078"
+	},
+	{
+		"id" : 138,
+		"title" : "Brave New World Vol. 3",
+		"genre" : "Mystery",
+		"author" : "Stephen King",
+		"published_year" : 1863,
+		"isbn" : "2757037509258"
+	},
+	{
+		"id" : 139,
+		"title" : "The Great Gatsby Vol. 1",
+		"genre" : "Fantasy",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1997,
+		"isbn" : "6814547352812"
+	},
+	{
+		"id" : 140,
+		"title" : "Pride and Prejudice Vol. 9",
+		"genre" : "Classic",
+		"author" : "Mark Twain",
+		"published_year" : 1928,
+		"isbn" : "1960685444366"
+	},
+	{
+		"id" : 141,
+		"title" : "The Way of Kings Vol. 6",
+		"genre" : "Science Fiction",
+		"author" : "George Orwell",
+		"published_year" : 1897,
+		"isbn" : "1362686004740"
+	},
+	{
+		"id" : 142,
+		"title" : "To Kill a Mockingbird Vol. 1",
+		"genre" : "Horror",
+		"author" : "Isaac Asimov",
+		"published_year" : 1978,
+		"isbn" : "6897441559375"
+	},
+	{
+		"id" : 143,
+		"title" : "Neuromancer Vol. 2",
+		"genre" : "Science Fiction",
+		"author" : "George Orwell",
+		"published_year" : 1887,
+		"isbn" : "7416858134408"
+	},
+	{
+		"id" : 144,
+		"title" : "To Kill a Mockingbird Vol. 3",
+		"genre" : "Classic",
+		"author" : "Mark Twain",
+		"published_year" : 2012,
+		"isbn" : "8722726619115"
+	},
+	{
+		"id" : 145,
+		"title" : "The Lost World Vol. 1",
+		"genre" : "Horror",
+		"author" : "Isaac Asimov",
+		"published_year" : 1862,
+		"isbn" : "1966534554982"
+	},
+	{
+		"id" : 146,
+		"title" : "Pride and Prejudice Vol. 2",
+		"genre" : "Science Fiction",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1852,
+		"isbn" : "2511796674149"
+	},
+	{
+		"id" : 147,
+		"title" : "Fahrenheit 451 Vol. 5",
+		"genre" : "Fantasy",
+		"author" : "Isaac Asimov",
+		"published_year" : 1920,
+		"isbn" : "4157385967268"
+	},
+	{
+		"id" : 148,
+		"title" : "The Hobbit Vol. 3",
+		"genre" : "Horror",
+		"author" : "Harper Lee",
+		"published_year" : 2008,
+		"isbn" : "9297239305421"
+	},
+	{
+		"id" : 149,
+		"title" : "Pride and Prejudice Vol. 8",
+		"genre" : "Mystery",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 2011,
+		"isbn" : "2024406438114"
+	},
+	{
+		"id" : 150,
+		"title" : "The Hobbit Vol. 7",
+		"genre" : "Thriller",
+		"author" : "J.K. Rowling",
+		"published_year" : 2009,
+		"isbn" : "8184328069934"
+	},
+	{
+		"id" : 151,
+		"title" : "It Vol. 9",
+		"genre" : "Mystery",
+		"author" : "J.K. Rowling",
+		"published_year" : 1957,
+		"isbn" : "4911319042519"
+	},
+	{
+		"id" : 152,
+		"title" : "The Great Gatsby Vol. 9",
+		"genre" : "Adventure",
+		"author" : "George Orwell",
+		"published_year" : 1904,
+		"isbn" : "9670735094442"
+	},
+	{
+		"id" : 153,
+		"title" : "Neuromancer Vol. 2",
+		"genre" : "Dystopian",
+		"author" : "Aldous Huxley",
+		"published_year" : 1902,
+		"isbn" : "9994171020133"
+	},
+	{
+		"id" : 154,
+		"title" : "The Lost World Vol. 9",
+		"genre" : "Fantasy",
+		"author" : "Aldous Huxley",
+		"published_year" : 1919,
+		"isbn" : "2448079042338"
+	},
+	{
+		"id" : 155,
+		"title" : "To Kill a Mockingbird Vol. 1",
+		"genre" : "Adventure",
+		"author" : "Jane Austen",
+		"published_year" : 1880,
+		"isbn" : "1467862323964"
+	},
+	{
+		"id" : 156,
+		"title" : "Dune Vol. 7",
+		"genre" : "Fantasy",
+		"author" : "Stephen King",
+		"published_year" : 1984,
+		"isbn" : "5372181756236"
+	},
+	{
+		"id" : 157,
+		"title" : "The Hobbit Vol. 4",
+		"genre" : "Science Fiction",
+		"author" : "Jane Austen",
+		"published_year" : 1999,
+		"isbn" : "5853295316224"
+	},
+	{
+		"id" : 158,
+		"title" : "The Lost World Vol. 6",
+		"genre" : "Horror",
+		"author" : "Aldous Huxley",
+		"published_year" : 1891,
+		"isbn" : "1272067811448"
+	},
+	{
+		"id" : 159,
+		"title" : "Brave New World Vol. 10",
+		"genre" : "Mystery",
+		"author" : "Ray Bradbury",
+		"published_year" : 2019,
+		"isbn" : "8443814463175"
+	},
+	{
+		"id" : 160,
+		"title" : "1984 Vol. 4",
+		"genre" : "Thriller",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1943,
+		"isbn" : "4429319492866"
+	},
+	{
+		"id" : 161,
+		"title" : "The Lost World Vol. 5",
+		"genre" : "Horror",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1864,
+		"isbn" : "9557228946074"
+	},
+	{
+		"id" : 162,
+		"title" : "To Kill a Mockingbird Vol. 6",
+		"genre" : "Mystery",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1975,
+		"isbn" : "5986320850477"
+	},
+	{
+		"id" : 163,
+		"title" : "The Way of Kings Vol. 8",
+		"genre" : "Dystopian",
+		"author" : "Isaac Asimov",
+		"published_year" : 1980,
+		"isbn" : "3600231393872"
+	},
+	{
+		"id" : 164,
+		"title" : "To Kill a Mockingbird Vol. 2",
+		"genre" : "Classic",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1969,
+		"isbn" : "5899785857262"
+	},
+	{
+		"id" : 165,
+		"title" : "Brave New World Vol. 9",
+		"genre" : "Science Fiction",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1951,
+		"isbn" : "3405082410753"
+	},
+	{
+		"id" : 166,
+		"title" : "The Shining Vol. 9",
+		"genre" : "Adventure",
+		"author" : "Aldous Huxley",
+		"published_year" : 1970,
+		"isbn" : "6606371926883"
+	},
+	{
+		"id" : 167,
+		"title" : "To Kill a Mockingbird Vol. 3",
+		"genre" : "Science Fiction",
+		"author" : "Isaac Asimov",
+		"published_year" : 1959,
+		"isbn" : "1485759667761"
+	},
+	{
+		"id" : 168,
+		"title" : "Dune Vol. 6",
+		"genre" : "Thriller",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1985,
+		"isbn" : "2871465494656"
+	},
+	{
+		"id" : 169,
+		"title" : "Pride and Prejudice Vol. 4",
+		"genre" : "Adventure",
+		"author" : "Stephen King",
+		"published_year" : 1854,
+		"isbn" : "9432389080853"
+	},
+	{
+		"id" : 170,
+		"title" : "Fahrenheit 451 Vol. 5",
+		"genre" : "Science Fiction",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 2014,
+		"isbn" : "2139350889797"
+	},
+	{
+		"id" : 171,
+		"title" : "The Final Empire Vol. 3",
+		"genre" : "Fantasy",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1987,
+		"isbn" : "4101709117811"
+	},
+	{
+		"id" : 172,
+		"title" : "1984 Vol. 9",
+		"genre" : "Mystery",
+		"author" : "H.G. Wells",
+		"published_year" : 2008,
+		"isbn" : "4000424265136"
+	},
+	{
+		"id" : 173,
+		"title" : "Dune Vol. 3",
+		"genre" : "Fantasy",
+		"author" : "Mark Twain",
+		"published_year" : 1991,
+		"isbn" : "1482655320105"
+	},
+	{
+		"id" : 174,
+		"title" : "The Final Empire Vol. 8",
+		"genre" : "Horror",
+		"author" : "Ernest Hemingway",
+		"published_year" : 2015,
+		"isbn" : "5789862282233"
+	},
+	{
+		"id" : 175,
+		"title" : "The Lost World Vol. 4",
+		"genre" : "Dystopian",
+		"author" : "Isaac Asimov",
+		"published_year" : 1893,
+		"isbn" : "9573432135830"
+	},
+	{
+		"id" : 176,
+		"title" : "The Shining Vol. 4",
+		"genre" : "Science Fiction",
+		"author" : "Mark Twain",
+		"published_year" : 1873,
+		"isbn" : "4930135888172"
+	},
+	{
+		"id" : 177,
+		"title" : "Moby Dick Vol. 6",
+		"genre" : "Science Fiction",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 2009,
+		"isbn" : "4883889295600"
+	},
+	{
+		"id" : 178,
+		"title" : "1984 Vol. 9",
+		"genre" : "Fantasy",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1931,
+		"isbn" : "6384397961034"
+	},
+	{
+		"id" : 179,
+		"title" : "The Lost World Vol. 1",
+		"genre" : "Adventure",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1910,
+		"isbn" : "6135298412288"
+	},
+	{
+		"id" : 180,
+		"title" : "The Way of Kings Vol. 10",
+		"genre" : "Mystery",
+		"author" : "Stephen King",
+		"published_year" : 1995,
+		"isbn" : "3636155417120"
+	},
+	{
+		"id" : 181,
+		"title" : "The Shining Vol. 9",
+		"genre" : "Adventure",
+		"author" : "Jane Austen",
+		"published_year" : 1950,
+		"isbn" : "7946262292397"
+	},
+	{
+		"id" : 182,
+		"title" : "Fahrenheit 451 Vol. 9",
+		"genre" : "Science Fiction",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1908,
+		"isbn" : "2028134292859"
+	},
+	{
+		"id" : 183,
+		"title" : "The Hobbit Vol. 2",
+		"genre" : "Dystopian",
+		"author" : "H.G. Wells",
+		"published_year" : 2021,
+		"isbn" : "6202858262441"
+	},
+	{
+		"id" : 184,
+		"title" : "The Hobbit Vol. 6",
+		"genre" : "Horror",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1946,
+		"isbn" : "8290263504211"
+	},
+	{
+		"id" : 185,
+		"title" : "The Shining Vol. 3",
+		"genre" : "Dystopian",
+		"author" : "George Orwell",
+		"published_year" : 2016,
+		"isbn" : "1252305246674"
+	},
+	{
+		"id" : 186,
+		"title" : "Moby Dick Vol. 5",
+		"genre" : "Adventure",
+		"author" : "H.G. Wells",
+		"published_year" : 1948,
+		"isbn" : "9660629215364"
+	},
+	{
+		"id" : 187,
+		"title" : "Neuromancer Vol. 10",
+		"genre" : "Adventure",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1933,
+		"isbn" : "4858827629251"
+	},
+	{
+		"id" : 188,
+		"title" : "Moby Dick Vol. 1",
+		"genre" : "Classic",
+		"author" : "Isaac Asimov",
+		"published_year" : 1857,
+		"isbn" : "3402729942802"
+	},
+	{
+		"id" : 189,
+		"title" : "Neuromancer Vol. 7",
+		"genre" : "Mystery",
+		"author" : "Ray Bradbury",
+		"published_year" : 1994,
+		"isbn" : "3560050038751"
+	},
+	{
+		"id" : 190,
+		"title" : "The Final Empire Vol. 3",
+		"genre" : "Thriller",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1938,
+		"isbn" : "7595963896754"
+	},
+	{
+		"id" : 191,
+		"title" : "The Shining Vol. 8",
+		"genre" : "Fantasy",
+		"author" : "Ray Bradbury",
+		"published_year" : 2019,
+		"isbn" : "1588917912154"
+	},
+	{
+		"id" : 192,
+		"title" : "The Great Gatsby Vol. 10",
+		"genre" : "Fantasy",
+		"author" : "Stephen King",
+		"published_year" : 1856,
+		"isbn" : "5953237780568"
+	},
+	{
+		"id" : 193,
+		"title" : "The Hobbit Vol. 5",
+		"genre" : "Adventure",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1896,
+		"isbn" : "5748786365843"
+	},
+	{
+		"id" : 194,
+		"title" : "Pride and Prejudice Vol. 2",
+		"genre" : "Fantasy",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1952,
+		"isbn" : "1616688520331"
+	},
+	{
+		"id" : 195,
+		"title" : "It Vol. 10",
+		"genre" : "Adventure",
+		"author" : "Harper Lee",
+		"published_year" : 1883,
+		"isbn" : "1752893585814"
+	},
+	{
+		"id" : 196,
+		"title" : "It Vol. 1",
+		"genre" : "Thriller",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1983,
+		"isbn" : "8146548794120"
+	},
+	{
+		"id" : 197,
+		"title" : "The Lost World Vol. 4",
+		"genre" : "Thriller",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1869,
+		"isbn" : "8180739588747"
+	},
+	{
+		"id" : 198,
+		"title" : "The Way of Kings Vol. 6",
+		"genre" : "Science Fiction",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1966,
+		"isbn" : "5032209046976"
+	},
+	{
+		"id" : 199,
+		"title" : "The Final Empire Vol. 7",
+		"genre" : "Horror",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1902,
+		"isbn" : "7879993302237"
+	},
+	{
+		"id" : 200,
+		"title" : "Fahrenheit 451 Vol. 3",
+		"genre" : "Adventure",
+		"author" : "Stephen King",
+		"published_year" : 1914,
+		"isbn" : "7349890080110"
+	},
+	{
+		"id" : 201,
+		"title" : "The Lost World Vol. 2",
+		"genre" : "Thriller",
+		"author" : "Mark Twain",
+		"published_year" : 1957,
+		"isbn" : "8343973571047"
+	},
+	{
+		"id" : 202,
+		"title" : "Moby Dick Vol. 9",
+		"genre" : "Science Fiction",
+		"author" : "Ray Bradbury",
+		"published_year" : 1913,
+		"isbn" : "9982708564644"
+	},
+	{
+		"id" : 203,
+		"title" : "The Hobbit Vol. 1",
+		"genre" : "Science Fiction",
+		"author" : "Jane Austen",
+		"published_year" : 1943,
+		"isbn" : "9200795561615"
+	},
+	{
+		"id" : 204,
+		"title" : "Brave New World Vol. 7",
+		"genre" : "Classic",
+		"author" : "Jane Austen",
+		"published_year" : 1920,
+		"isbn" : "1277264589153"
+	},
+	{
+		"id" : 205,
+		"title" : "The Great Gatsby Vol. 3",
+		"genre" : "Adventure",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1912,
+		"isbn" : "1045128535331"
+	},
+	{
+		"id" : 206,
+		"title" : "The Way of Kings Vol. 10",
+		"genre" : "Fantasy",
+		"author" : "H.G. Wells",
+		"published_year" : 1890,
+		"isbn" : "2482630411146"
+	},
+	{
+		"id" : 207,
+		"title" : "The Hobbit Vol. 3",
+		"genre" : "Mystery",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1948,
+		"isbn" : "6253730651790"
+	},
+	{
+		"id" : 208,
+		"title" : "The Final Empire Vol. 9",
+		"genre" : "Adventure",
+		"author" : "Jane Austen",
+		"published_year" : 1865,
+		"isbn" : "5884711993016"
+	},
+	{
+		"id" : 209,
+		"title" : "Pride and Prejudice Vol. 6",
+		"genre" : "Mystery",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 2010,
+		"isbn" : "9703099433313"
+	},
+	{
+		"id" : 210,
+		"title" : "The Hobbit Vol. 1",
+		"genre" : "Horror",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 2012,
+		"isbn" : "5559218855289"
+	},
+	{
+		"id" : 211,
+		"title" : "The Way of Kings Vol. 2",
+		"genre" : "Thriller",
+		"author" : "Jane Austen",
+		"published_year" : 1910,
+		"isbn" : "4935520142032"
+	},
+	{
+		"id" : 212,
+		"title" : "It Vol. 6",
+		"genre" : "Classic",
+		"author" : "Mark Twain",
+		"published_year" : 2012,
+		"isbn" : "7705945757795"
+	},
+	{
+		"id" : 213,
+		"title" : "The Shining Vol. 4",
+		"genre" : "Science Fiction",
+		"author" : "George Orwell",
+		"published_year" : 1856,
+		"isbn" : "7768727657708"
+	},
+	{
+		"id" : 214,
+		"title" : "The Way of Kings Vol. 6",
+		"genre" : "Science Fiction",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 2009,
+		"isbn" : "4410534241494"
+	},
+	{
+		"id" : 215,
+		"title" : "Dune Vol. 10",
+		"genre" : "Classic",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1924,
+		"isbn" : "2666744815625"
+	},
+	{
+		"id" : 216,
+		"title" : "Pride and Prejudice Vol. 7",
+		"genre" : "Adventure",
+		"author" : "Harper Lee",
+		"published_year" : 1930,
+		"isbn" : "6831591291022"
+	},
+	{
+		"id" : 217,
+		"title" : "The Way of Kings Vol. 8",
+		"genre" : "Classic",
+		"author" : "Aldous Huxley",
+		"published_year" : 1898,
+		"isbn" : "4812549991104"
+	},
+	{
+		"id" : 218,
+		"title" : "Neuromancer Vol. 10",
+		"genre" : "Horror",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1913,
+		"isbn" : "9912534006068"
+	},
+	{
+		"id" : 219,
+		"title" : "The Hobbit Vol. 2",
+		"genre" : "Dystopian",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1911,
+		"isbn" : "4810701822622"
+	},
+	{
+		"id" : 220,
+		"title" : "The Lost World Vol. 7",
+		"genre" : "Science Fiction",
+		"author" : "J.K. Rowling",
+		"published_year" : 1883,
+		"isbn" : "7035243668987"
+	},
+	{
+		"id" : 221,
+		"title" : "Dune Vol. 5",
+		"genre" : "Thriller",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1969,
+		"isbn" : "6015359219100"
+	},
+	{
+		"id" : 222,
+		"title" : "The Shining Vol. 1",
+		"genre" : "Dystopian",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1871,
+		"isbn" : "4980254755836"
+	},
+	{
+		"id" : 223,
+		"title" : "1984 Vol. 6",
+		"genre" : "Horror",
+		"author" : "Isaac Asimov",
+		"published_year" : 1946,
+		"isbn" : "7086880771318"
+	},
+	{
+		"id" : 224,
+		"title" : "The Lost World Vol. 2",
+		"genre" : "Classic",
+		"author" : "Jane Austen",
+		"published_year" : 2000,
+		"isbn" : "6404794259092"
+	},
+	{
+		"id" : 225,
+		"title" : "The Final Empire Vol. 7",
+		"genre" : "Dystopian",
+		"author" : "Isaac Asimov",
+		"published_year" : 1973,
+		"isbn" : "9178417331007"
+	},
+	{
+		"id" : 226,
+		"title" : "Brave New World Vol. 4",
+		"genre" : "Fantasy",
+		"author" : "Isaac Asimov",
+		"published_year" : 1871,
+		"isbn" : "7059531274972"
+	},
+	{
+		"id" : 227,
+		"title" : "Brave New World Vol. 9",
+		"genre" : "Horror",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1968,
+		"isbn" : "2252348804659"
+	},
+	{
+		"id" : 228,
+		"title" : "The Great Gatsby Vol. 6",
+		"genre" : "Classic",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1933,
+		"isbn" : "2377609900640"
+	},
+	{
+		"id" : 229,
+		"title" : "Neuromancer Vol. 10",
+		"genre" : "Science Fiction",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1927,
+		"isbn" : "6932595289207"
+	},
+	{
+		"id" : 230,
+		"title" : "1984 Vol. 8",
+		"genre" : "Dystopian",
+		"author" : "Ray Bradbury",
+		"published_year" : 2007,
+		"isbn" : "5212799072002"
+	},
+	{
+		"id" : 231,
+		"title" : "1984 Vol. 6",
+		"genre" : "Classic",
+		"author" : "George Orwell",
+		"published_year" : 1891,
+		"isbn" : "3015921023473"
+	},
+	{
+		"id" : 232,
+		"title" : "The Shining Vol. 2",
+		"genre" : "Fantasy",
+		"author" : "Jane Austen",
+		"published_year" : 2017,
+		"isbn" : "9740160116442"
+	},
+	{
+		"id" : 233,
+		"title" : "Brave New World Vol. 7",
+		"genre" : "Classic",
+		"author" : "Aldous Huxley",
+		"published_year" : 1991,
+		"isbn" : "5585370357751"
+	},
+	{
+		"id" : 234,
+		"title" : "To Kill a Mockingbird Vol. 6",
+		"genre" : "Fantasy",
+		"author" : "J.K. Rowling",
+		"published_year" : 1881,
+		"isbn" : "4426210519932"
+	},
+	{
+		"id" : 235,
+		"title" : "The Shining Vol. 7",
+		"genre" : "Adventure",
+		"author" : "Stephen King",
+		"published_year" : 1854,
+		"isbn" : "1664470504290"
+	},
+	{
+		"id" : 236,
+		"title" : "Neuromancer Vol. 4",
+		"genre" : "Adventure",
+		"author" : "Harper Lee",
+		"published_year" : 1912,
+		"isbn" : "9764748773868"
+	},
+	{
+		"id" : 237,
+		"title" : "The Final Empire Vol. 2",
+		"genre" : "Science Fiction",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1952,
+		"isbn" : "6402839914539"
+	},
+	{
+		"id" : 238,
+		"title" : "It Vol. 5",
+		"genre" : "Thriller",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1894,
+		"isbn" : "2632728076583"
+	},
+	{
+		"id" : 239,
+		"title" : "The Shining Vol. 1",
+		"genre" : "Thriller",
+		"author" : "Aldous Huxley",
+		"published_year" : 1947,
+		"isbn" : "9966689591705"
+	},
+	{
+		"id" : 240,
+		"title" : "To Kill a Mockingbird Vol. 1",
+		"genre" : "Adventure",
+		"author" : "Jane Austen",
+		"published_year" : 1957,
+		"isbn" : "9112730960936"
+	},
+	{
+		"id" : 241,
+		"title" : "Pride and Prejudice Vol. 5",
+		"genre" : "Thriller",
+		"author" : "Isaac Asimov",
+		"published_year" : 1977,
+		"isbn" : "6574098654505"
+	},
+	{
+		"id" : 242,
+		"title" : "1984 Vol. 6",
+		"genre" : "Science Fiction",
+		"author" : "Jane Austen",
+		"published_year" : 1885,
+		"isbn" : "8656040792149"
+	},
+	{
+		"id" : 243,
+		"title" : "Neuromancer Vol. 7",
+		"genre" : "Classic",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1980,
+		"isbn" : "9291193945676"
+	},
+	{
+		"id" : 244,
+		"title" : "1984 Vol. 4",
+		"genre" : "Mystery",
+		"author" : "Isaac Asimov",
+		"published_year" : 2002,
+		"isbn" : "9185620073607"
+	},
+	{
+		"id" : 245,
+		"title" : "Moby Dick Vol. 6",
+		"genre" : "Thriller",
+		"author" : "Aldous Huxley",
+		"published_year" : 1959,
+		"isbn" : "5804223629272"
+	},
+	{
+		"id" : 246,
+		"title" : "The Shining Vol. 10",
+		"genre" : "Thriller",
+		"author" : "Harper Lee",
+		"published_year" : 1867,
+		"isbn" : "6828493807121"
+	},
+	{
+		"id" : 247,
+		"title" : "It Vol. 4",
+		"genre" : "Classic",
+		"author" : "Ray Bradbury",
+		"published_year" : 2002,
+		"isbn" : "1991459235139"
+	},
+	{
+		"id" : 248,
+		"title" : "Brave New World Vol. 7",
+		"genre" : "Fantasy",
+		"author" : "George Orwell",
+		"published_year" : 1912,
+		"isbn" : "3694280464744"
+	},
+	{
+		"id" : 249,
+		"title" : "The Hobbit Vol. 6",
+		"genre" : "Adventure",
+		"author" : "Ray Bradbury",
+		"published_year" : 1982,
+		"isbn" : "1509831655683"
+	},
+	{
+		"id" : 250,
+		"title" : "The Shining Vol. 8",
+		"genre" : "Dystopian",
+		"author" : "Ray Bradbury",
+		"published_year" : 1867,
+		"isbn" : "6336680238193"
+	},
+	{
+		"id" : 251,
+		"title" : "The Way of Kings Vol. 7",
+		"genre" : "Science Fiction",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1893,
+		"isbn" : "5883162486380"
+	},
+	{
+		"id" : 252,
+		"title" : "Neuromancer Vol. 5",
+		"genre" : "Fantasy",
+		"author" : "Harper Lee",
+		"published_year" : 2005,
+		"isbn" : "3793969138179"
+	},
+	{
+		"id" : 253,
+		"title" : "Brave New World Vol. 9",
+		"genre" : "Horror",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1981,
+		"isbn" : "9880256405140"
+	},
+	{
+		"id" : 254,
+		"title" : "Fahrenheit 451 Vol. 2",
+		"genre" : "Fantasy",
+		"author" : "H.G. Wells",
+		"published_year" : 2010,
+		"isbn" : "5456041010611"
+	},
+	{
+		"id" : 255,
+		"title" : "Dune Vol. 9",
+		"genre" : "Classic",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 2000,
+		"isbn" : "6554771607883"
+	},
+	{
+		"id" : 256,
+		"title" : "Neuromancer Vol. 1",
+		"genre" : "Science Fiction",
+		"author" : "Aldous Huxley",
+		"published_year" : 1995,
+		"isbn" : "1777565276742"
+	},
+	{
+		"id" : 257,
+		"title" : "The Way of Kings Vol. 2",
+		"genre" : "Adventure",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1923,
+		"isbn" : "5893739294207"
+	},
+	{
+		"id" : 258,
+		"title" : "Neuromancer Vol. 7",
+		"genre" : "Science Fiction",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1880,
+		"isbn" : "9703644096887"
+	},
+	{
+		"id" : 259,
+		"title" : "Neuromancer Vol. 9",
+		"genre" : "Fantasy",
+		"author" : "Ray Bradbury",
+		"published_year" : 2009,
+		"isbn" : "9113462895697"
+	},
+	{
+		"id" : 260,
+		"title" : "The Way of Kings Vol. 4",
+		"genre" : "Science Fiction",
+		"author" : "Ray Bradbury",
+		"published_year" : 1905,
+		"isbn" : "2733581884655"
+	},
+	{
+		"id" : 261,
+		"title" : "To Kill a Mockingbird Vol. 6",
+		"genre" : "Adventure",
+		"author" : "Harper Lee",
+		"published_year" : 1924,
+		"isbn" : "4464303723978"
+	},
+	{
+		"id" : 262,
+		"title" : "Dune Vol. 7",
+		"genre" : "Dystopian",
+		"author" : "Stephen King",
+		"published_year" : 2022,
+		"isbn" : "1715120774147"
+	},
+	{
+		"id" : 263,
+		"title" : "Moby Dick Vol. 3",
+		"genre" : "Thriller",
+		"author" : "George Orwell",
+		"published_year" : 1936,
+		"isbn" : "9794725157104"
+	},
+	{
+		"id" : 264,
+		"title" : "Neuromancer Vol. 8",
+		"genre" : "Classic",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1998,
+		"isbn" : "2984451717347"
+	},
+	{
+		"id" : 265,
+		"title" : "The Great Gatsby Vol. 1",
+		"genre" : "Adventure",
+		"author" : "Harper Lee",
+		"published_year" : 1850,
+		"isbn" : "8694819430155"
+	},
+	{
+		"id" : 266,
+		"title" : "To Kill a Mockingbird Vol. 5",
+		"genre" : "Fantasy",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1907,
+		"isbn" : "8685661465546"
+	},
+	{
+		"id" : 267,
+		"title" : "The Hobbit Vol. 6",
+		"genre" : "Mystery",
+		"author" : "Jane Austen",
+		"published_year" : 1907,
+		"isbn" : "8298006478354"
+	},
+	{
+		"id" : 268,
+		"title" : "Dune Vol. 9",
+		"genre" : "Classic",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1854,
+		"isbn" : "8810587902649"
+	},
+	{
+		"id" : 269,
+		"title" : "Dune Vol. 3",
+		"genre" : "Mystery",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1862,
+		"isbn" : "9189905942119"
+	},
+	{
+		"id" : 270,
+		"title" : "It Vol. 4",
+		"genre" : "Horror",
+		"author" : "Stephen King",
+		"published_year" : 1900,
+		"isbn" : "8882378590206"
+	},
+	{
+		"id" : 271,
+		"title" : "Neuromancer Vol. 4",
+		"genre" : "Science Fiction",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1958,
+		"isbn" : "3670482741693"
+	},
+	{
+		"id" : 272,
+		"title" : "The Shining Vol. 8",
+		"genre" : "Horror",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1929,
+		"isbn" : "8956656476739"
+	},
+	{
+		"id" : 273,
+		"title" : "Fahrenheit 451 Vol. 10",
+		"genre" : "Adventure",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1916,
+		"isbn" : "3100425050781"
+	},
+	{
+		"id" : 274,
+		"title" : "The Final Empire Vol. 5",
+		"genre" : "Adventure",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1890,
+		"isbn" : "4825162803749"
+	},
+	{
+		"id" : 275,
+		"title" : "Dune Vol. 4",
+		"genre" : "Horror",
+		"author" : "George Orwell",
+		"published_year" : 1957,
+		"isbn" : "4675657038391"
+	},
+	{
+		"id" : 276,
+		"title" : "The Great Gatsby Vol. 9",
+		"genre" : "Fantasy",
+		"author" : "Aldous Huxley",
+		"published_year" : 2005,
+		"isbn" : "6710116974785"
+	},
+	{
+		"id" : 277,
+		"title" : "The Final Empire Vol. 9",
+		"genre" : "Thriller",
+		"author" : "J.K. Rowling",
+		"published_year" : 1856,
+		"isbn" : "3124700403994"
+	},
+	{
+		"id" : 278,
+		"title" : "To Kill a Mockingbird Vol. 6",
+		"genre" : "Science Fiction",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1863,
+		"isbn" : "6111261694081"
+	},
+	{
+		"id" : 279,
+		"title" : "Neuromancer Vol. 1",
+		"genre" : "Fantasy",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1851,
+		"isbn" : "2886861856216"
+	},
+	{
+		"id" : 280,
+		"title" : "To Kill a Mockingbird Vol. 6",
+		"genre" : "Classic",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1927,
+		"isbn" : "3042618742810"
+	},
+	{
+		"id" : 281,
+		"title" : "1984 Vol. 8",
+		"genre" : "Mystery",
+		"author" : "Jane Austen",
+		"published_year" : 1991,
+		"isbn" : "7384248508720"
+	},
+	{
+		"id" : 282,
+		"title" : "The Great Gatsby Vol. 10",
+		"genre" : "Science Fiction",
+		"author" : "Stephen King",
+		"published_year" : 1968,
+		"isbn" : "7751556016643"
+	},
+	{
+		"id" : 283,
+		"title" : "The Final Empire Vol. 5",
+		"genre" : "Horror",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1874,
+		"isbn" : "9376587537431"
+	},
+	{
+		"id" : 284,
+		"title" : "It Vol. 1",
+		"genre" : "Mystery",
+		"author" : "Ray Bradbury",
+		"published_year" : 1930,
+		"isbn" : "4832991941670"
+	},
+	{
+		"id" : 285,
+		"title" : "Brave New World Vol. 3",
+		"genre" : "Horror",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1855,
+		"isbn" : "7914721968033"
+	},
+	{
+		"id" : 286,
+		"title" : "Pride and Prejudice Vol. 2",
+		"genre" : "Science Fiction",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1957,
+		"isbn" : "5397315964376"
+	},
+	{
+		"id" : 287,
+		"title" : "The Shining Vol. 2",
+		"genre" : "Dystopian",
+		"author" : "Harper Lee",
+		"published_year" : 1851,
+		"isbn" : "2855077368573"
+	},
+	{
+		"id" : 288,
+		"title" : "To Kill a Mockingbird Vol. 8",
+		"genre" : "Thriller",
+		"author" : "J.K. Rowling",
+		"published_year" : 1997,
+		"isbn" : "8943551332725"
+	},
+	{
+		"id" : 289,
+		"title" : "Dune Vol. 8",
+		"genre" : "Mystery",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1851,
+		"isbn" : "4708933963956"
+	},
+	{
+		"id" : 290,
+		"title" : "The Final Empire Vol. 1",
+		"genre" : "Adventure",
+		"author" : "George Orwell",
+		"published_year" : 1985,
+		"isbn" : "8743903201912"
+	},
+	{
+		"id" : 291,
+		"title" : "Moby Dick Vol. 7",
+		"genre" : "Fantasy",
+		"author" : "Isaac Asimov",
+		"published_year" : 1865,
+		"isbn" : "7685942121151"
+	},
+	{
+		"id" : 292,
+		"title" : "It Vol. 8",
+		"genre" : "Fantasy",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1888,
+		"isbn" : "7582598707947"
+	},
+	{
+		"id" : 293,
+		"title" : "1984 Vol. 3",
+		"genre" : "Thriller",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1959,
+		"isbn" : "8209560198353"
+	},
+	{
+		"id" : 294,
+		"title" : "1984 Vol. 10",
+		"genre" : "Horror",
+		"author" : "Stephen King",
+		"published_year" : 2015,
+		"isbn" : "2470715999624"
+	},
+	{
+		"id" : 295,
+		"title" : "Neuromancer Vol. 1",
+		"genre" : "Science Fiction",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1960,
+		"isbn" : "9850912286506"
+	},
+	{
+		"id" : 296,
+		"title" : "The Final Empire Vol. 1",
+		"genre" : "Classic",
+		"author" : "Aldous Huxley",
+		"published_year" : 1939,
+		"isbn" : "2784143691350"
+	},
+	{
+		"id" : 297,
+		"title" : "The Way of Kings Vol. 6",
+		"genre" : "Adventure",
+		"author" : "George Orwell",
+		"published_year" : 1914,
+		"isbn" : "1653010836036"
+	},
+	{
+		"id" : 298,
+		"title" : "Brave New World Vol. 2",
+		"genre" : "Adventure",
+		"author" : "Stephen King",
+		"published_year" : 1887,
+		"isbn" : "4400172759504"
+	},
+	{
+		"id" : 299,
+		"title" : "The Hobbit Vol. 9",
+		"genre" : "Fantasy",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1910,
+		"isbn" : "3077563017226"
+	},
+	{
+		"id" : 300,
+		"title" : "Fahrenheit 451 Vol. 10",
+		"genre" : "Fantasy",
+		"author" : "Mark Twain",
+		"published_year" : 1927,
+		"isbn" : "1477197832574"
+	},
+	{
+		"id" : 301,
+		"title" : "Moby Dick Vol. 3",
+		"genre" : "Classic",
+		"author" : "Ray Bradbury",
+		"published_year" : 1896,
+		"isbn" : "7234838683570"
+	},
+	{
+		"id" : 302,
+		"title" : "Moby Dick Vol. 10",
+		"genre" : "Dystopian",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1951,
+		"isbn" : "2759328662227"
+	},
+	{
+		"id" : 303,
+		"title" : "1984 Vol. 6",
+		"genre" : "Science Fiction",
+		"author" : "Isaac Asimov",
+		"published_year" : 1947,
+		"isbn" : "4594333878773"
+	},
+	{
+		"id" : 304,
+		"title" : "The Lost World Vol. 4",
+		"genre" : "Mystery",
+		"author" : "Jane Austen",
+		"published_year" : 1917,
+		"isbn" : "9484365065848"
+	},
+	{
+		"id" : 305,
+		"title" : "Neuromancer Vol. 6",
+		"genre" : "Classic",
+		"author" : "Aldous Huxley",
+		"published_year" : 1929,
+		"isbn" : "2063970497916"
+	},
+	{
+		"id" : 306,
+		"title" : "Neuromancer Vol. 8",
+		"genre" : "Classic",
+		"author" : "Isaac Asimov",
+		"published_year" : 2014,
+		"isbn" : "7410451435120"
+	},
+	{
+		"id" : 307,
+		"title" : "To Kill a Mockingbird Vol. 2",
+		"genre" : "Thriller",
+		"author" : "Jane Austen",
+		"published_year" : 1865,
+		"isbn" : "6528681321927"
+	},
+	{
+		"id" : 308,
+		"title" : "1984 Vol. 8",
+		"genre" : "Horror",
+		"author" : "Isaac Asimov",
+		"published_year" : 1967,
+		"isbn" : "4240374272984"
+	},
+	{
+		"id" : 309,
+		"title" : "The Great Gatsby Vol. 5",
+		"genre" : "Adventure",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1915,
+		"isbn" : "4586994401763"
+	},
+	{
+		"id" : 310,
+		"title" : "The Lost World Vol. 9",
+		"genre" : "Thriller",
+		"author" : "Stephen King",
+		"published_year" : 1884,
+		"isbn" : "7461938477458"
+	},
+	{
+		"id" : 311,
+		"title" : "The Great Gatsby Vol. 6",
+		"genre" : "Adventure",
+		"author" : "Ray Bradbury",
+		"published_year" : 2001,
+		"isbn" : "6995703233785"
+	},
+	{
+		"id" : 312,
+		"title" : "1984 Vol. 1",
+		"genre" : "Science Fiction",
+		"author" : "Harper Lee",
+		"published_year" : 1885,
+		"isbn" : "3131164944691"
+	},
+	{
+		"id" : 313,
+		"title" : "The Great Gatsby Vol. 5",
+		"genre" : "Fantasy",
+		"author" : "Aldous Huxley",
+		"published_year" : 1877,
+		"isbn" : "8425428557538"
+	},
+	{
+		"id" : 314,
+		"title" : "Neuromancer Vol. 8",
+		"genre" : "Adventure",
+		"author" : "Isaac Asimov",
+		"published_year" : 1951,
+		"isbn" : "5425767940148"
+	},
+	{
+		"id" : 315,
+		"title" : "It Vol. 2",
+		"genre" : "Horror",
+		"author" : "Mark Twain",
+		"published_year" : 1882,
+		"isbn" : "6195874920700"
+	},
+	{
+		"id" : 316,
+		"title" : "To Kill a Mockingbird Vol. 9",
+		"genre" : "Thriller",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 2015,
+		"isbn" : "8493361142390"
+	},
+	{
+		"id" : 317,
+		"title" : "Dune Vol. 6",
+		"genre" : "Science Fiction",
+		"author" : "Isaac Asimov",
+		"published_year" : 1996,
+		"isbn" : "9518503744890"
+	},
+	{
+		"id" : 318,
+		"title" : "1984 Vol. 10",
+		"genre" : "Mystery",
+		"author" : "Mark Twain",
+		"published_year" : 1987,
+		"isbn" : "2628817208946"
+	},
+	{
+		"id" : 319,
+		"title" : "The Way of Kings Vol. 4",
+		"genre" : "Mystery",
+		"author" : "Isaac Asimov",
+		"published_year" : 1947,
+		"isbn" : "6085506650943"
+	},
+	{
+		"id" : 320,
+		"title" : "It Vol. 4",
+		"genre" : "Adventure",
+		"author" : "Mark Twain",
+		"published_year" : 1889,
+		"isbn" : "4148636763565"
+	},
+	{
+		"id" : 321,
+		"title" : "Pride and Prejudice Vol. 4",
+		"genre" : "Fantasy",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1904,
+		"isbn" : "8926801087399"
+	},
+	{
+		"id" : 322,
+		"title" : "Moby Dick Vol. 3",
+		"genre" : "Horror",
+		"author" : "Jane Austen",
+		"published_year" : 1867,
+		"isbn" : "5062592804831"
+	},
+	{
+		"id" : 323,
+		"title" : "It Vol. 7",
+		"genre" : "Adventure",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1999,
+		"isbn" : "7882284987300"
+	},
+	{
+		"id" : 324,
+		"title" : "Pride and Prejudice Vol. 2",
+		"genre" : "Horror",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1878,
+		"isbn" : "1565187935460"
+	},
+	{
+		"id" : 325,
+		"title" : "Dune Vol. 10",
+		"genre" : "Thriller",
+		"author" : "Stephen King",
+		"published_year" : 2011,
+		"isbn" : "4841073123051"
+	},
+	{
+		"id" : 326,
+		"title" : "To Kill a Mockingbird Vol. 2",
+		"genre" : "Mystery",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1953,
+		"isbn" : "6299890876925"
+	},
+	{
+		"id" : 327,
+		"title" : "The Shining Vol. 4",
+		"genre" : "Classic",
+		"author" : "H.G. Wells",
+		"published_year" : 1943,
+		"isbn" : "9625678362014"
+	},
+	{
+		"id" : 328,
+		"title" : "Pride and Prejudice Vol. 1",
+		"genre" : "Thriller",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1999,
+		"isbn" : "8420422968129"
+	},
+	{
+		"id" : 329,
+		"title" : "It Vol. 1",
+		"genre" : "Mystery",
+		"author" : "George Orwell",
+		"published_year" : 2013,
+		"isbn" : "1146205912743"
+	},
+	{
+		"id" : 330,
+		"title" : "The Final Empire Vol. 8",
+		"genre" : "Classic",
+		"author" : "Stephen King",
+		"published_year" : 1962,
+		"isbn" : "7464045094082"
+	},
+	{
+		"id" : 331,
+		"title" : "Dune Vol. 5",
+		"genre" : "Classic",
+		"author" : "Aldous Huxley",
+		"published_year" : 1902,
+		"isbn" : "5989648401127"
+	},
+	{
+		"id" : 332,
+		"title" : "The Way of Kings Vol. 9",
+		"genre" : "Science Fiction",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1902,
+		"isbn" : "7615015747931"
+	},
+	{
+		"id" : 333,
+		"title" : "To Kill a Mockingbird Vol. 8",
+		"genre" : "Horror",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1881,
+		"isbn" : "9237129056821"
+	},
+	{
+		"id" : 334,
+		"title" : "Moby Dick Vol. 10",
+		"genre" : "Fantasy",
+		"author" : "H.G. Wells",
+		"published_year" : 1886,
+		"isbn" : "5900075045967"
+	},
+	{
+		"id" : 335,
+		"title" : "Brave New World Vol. 1",
+		"genre" : "Classic",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1984,
+		"isbn" : "6395395757764"
+	},
+	{
+		"id" : 336,
+		"title" : "1984 Vol. 4",
+		"genre" : "Classic",
+		"author" : "Aldous Huxley",
+		"published_year" : 1968,
+		"isbn" : "8092417430162"
+	},
+	{
+		"id" : 337,
+		"title" : "Moby Dick Vol. 7",
+		"genre" : "Classic",
+		"author" : "Harper Lee",
+		"published_year" : 1951,
+		"isbn" : "3249981328269"
+	},
+	{
+		"id" : 338,
+		"title" : "The Hobbit Vol. 10",
+		"genre" : "Fantasy",
+		"author" : "George Orwell",
+		"published_year" : 1905,
+		"isbn" : "7115690848512"
+	},
+	{
+		"id" : 339,
+		"title" : "It Vol. 9",
+		"genre" : "Horror",
+		"author" : "Ray Bradbury",
+		"published_year" : 1978,
+		"isbn" : "4595292710753"
+	},
+	{
+		"id" : 340,
+		"title" : "Dune Vol. 7",
+		"genre" : "Adventure",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1875,
+		"isbn" : "7702922474751"
+	},
+	{
+		"id" : 341,
+		"title" : "Dune Vol. 4",
+		"genre" : "Fantasy",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 2013,
+		"isbn" : "2231547317995"
+	},
+	{
+		"id" : 342,
+		"title" : "Brave New World Vol. 3",
+		"genre" : "Dystopian",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1933,
+		"isbn" : "3477051224260"
+	},
+	{
+		"id" : 343,
+		"title" : "The Lost World Vol. 10",
+		"genre" : "Classic",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1862,
+		"isbn" : "4423081640053"
+	},
+	{
+		"id" : 344,
+		"title" : "Fahrenheit 451 Vol. 1",
+		"genre" : "Mystery",
+		"author" : "Mark Twain",
+		"published_year" : 2011,
+		"isbn" : "4976626572724"
+	},
+	{
+		"id" : 345,
+		"title" : "Pride and Prejudice Vol. 2",
+		"genre" : "Science Fiction",
+		"author" : "Harper Lee",
+		"published_year" : 1919,
+		"isbn" : "2516319569867"
+	},
+	{
+		"id" : 346,
+		"title" : "The Way of Kings Vol. 5",
+		"genre" : "Classic",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1944,
+		"isbn" : "4610491602392"
+	},
+	{
+		"id" : 347,
+		"title" : "Brave New World Vol. 1",
+		"genre" : "Fantasy",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 2021,
+		"isbn" : "1154361136216"
+	},
+	{
+		"id" : 348,
+		"title" : "Dune Vol. 7",
+		"genre" : "Classic",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1958,
+		"isbn" : "2665522153195"
+	},
+	{
+		"id" : 349,
+		"title" : "Neuromancer Vol. 2",
+		"genre" : "Science Fiction",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 2019,
+		"isbn" : "8230175940898"
+	},
+	{
+		"id" : 350,
+		"title" : "Dune Vol. 8",
+		"genre" : "Classic",
+		"author" : "George Orwell",
+		"published_year" : 1921,
+		"isbn" : "6654229667545"
+	},
+	{
+		"id" : 351,
+		"title" : "Fahrenheit 451 Vol. 1",
+		"genre" : "Dystopian",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1937,
+		"isbn" : "5320239072847"
+	},
+	{
+		"id" : 352,
+		"title" : "The Great Gatsby Vol. 1",
+		"genre" : "Science Fiction",
+		"author" : "Harper Lee",
+		"published_year" : 1985,
+		"isbn" : "3282405987104"
+	},
+	{
+		"id" : 353,
+		"title" : "The Shining Vol. 6",
+		"genre" : "Classic",
+		"author" : "Aldous Huxley",
+		"published_year" : 1995,
+		"isbn" : "5612045471720"
+	},
+	{
+		"id" : 354,
+		"title" : "1984 Vol. 8",
+		"genre" : "Adventure",
+		"author" : "J.K. Rowling",
+		"published_year" : 1914,
+		"isbn" : "9631300394675"
+	},
+	{
+		"id" : 355,
+		"title" : "The Shining Vol. 1",
+		"genre" : "Thriller",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1880,
+		"isbn" : "2183091813508"
+	},
+	{
+		"id" : 356,
+		"title" : "1984 Vol. 1",
+		"genre" : "Thriller",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1862,
+		"isbn" : "1433428590107"
+	},
+	{
+		"id" : 357,
+		"title" : "The Lost World Vol. 1",
+		"genre" : "Fantasy",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1854,
+		"isbn" : "9046319921991"
+	},
+	{
+		"id" : 358,
+		"title" : "The Great Gatsby Vol. 7",
+		"genre" : "Thriller",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1939,
+		"isbn" : "2045723219773"
+	},
+	{
+		"id" : 359,
+		"title" : "The Hobbit Vol. 1",
+		"genre" : "Mystery",
+		"author" : "Harper Lee",
+		"published_year" : 1994,
+		"isbn" : "2492859807451"
+	},
+	{
+		"id" : 360,
+		"title" : "Moby Dick Vol. 8",
+		"genre" : "Adventure",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1992,
+		"isbn" : "9927936141653"
+	},
+	{
+		"id" : 361,
+		"title" : "Dune Vol. 8",
+		"genre" : "Science Fiction",
+		"author" : "Isaac Asimov",
+		"published_year" : 2004,
+		"isbn" : "2847487340818"
+	},
+	{
+		"id" : 362,
+		"title" : "Neuromancer Vol. 5",
+		"genre" : "Classic",
+		"author" : "Ray Bradbury",
+		"published_year" : 1860,
+		"isbn" : "3664785611511"
+	},
+	{
+		"id" : 363,
+		"title" : "It Vol. 5",
+		"genre" : "Adventure",
+		"author" : "Aldous Huxley",
+		"published_year" : 1997,
+		"isbn" : "6385190797167"
+	},
+	{
+		"id" : 364,
+		"title" : "The Shining Vol. 4",
+		"genre" : "Dystopian",
+		"author" : "Jane Austen",
+		"published_year" : 1855,
+		"isbn" : "4749014178205"
+	},
+	{
+		"id" : 365,
+		"title" : "Pride and Prejudice Vol. 4",
+		"genre" : "Classic",
+		"author" : "J.K. Rowling",
+		"published_year" : 1978,
+		"isbn" : "2320592339488"
+	},
+	{
+		"id" : 366,
+		"title" : "The Shining Vol. 3",
+		"genre" : "Dystopian",
+		"author" : "Isaac Asimov",
+		"published_year" : 2015,
+		"isbn" : "1050500805490"
+	},
+	{
+		"id" : 367,
+		"title" : "The Great Gatsby Vol. 9",
+		"genre" : "Dystopian",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 2008,
+		"isbn" : "3627056769419"
+	},
+	{
+		"id" : 368,
+		"title" : "Neuromancer Vol. 6",
+		"genre" : "Thriller",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1919,
+		"isbn" : "9965038728510"
+	},
+	{
+		"id" : 369,
+		"title" : "The Great Gatsby Vol. 3",
+		"genre" : "Fantasy",
+		"author" : "Isaac Asimov",
+		"published_year" : 1940,
+		"isbn" : "1685151084016"
+	},
+	{
+		"id" : 370,
+		"title" : "The Great Gatsby Vol. 6",
+		"genre" : "Thriller",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1879,
+		"isbn" : "4517328733653"
+	},
+	{
+		"id" : 371,
+		"title" : "It Vol. 9",
+		"genre" : "Thriller",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1997,
+		"isbn" : "6660798714384"
+	},
+	{
+		"id" : 372,
+		"title" : "Pride and Prejudice Vol. 6",
+		"genre" : "Thriller",
+		"author" : "J.K. Rowling",
+		"published_year" : 1918,
+		"isbn" : "8783377238924"
+	},
+	{
+		"id" : 373,
+		"title" : "1984 Vol. 2",
+		"genre" : "Horror",
+		"author" : "Jane Austen",
+		"published_year" : 1877,
+		"isbn" : "5115890410511"
+	},
+	{
+		"id" : 374,
+		"title" : "The Shining Vol. 4",
+		"genre" : "Fantasy",
+		"author" : "Stephen King",
+		"published_year" : 2002,
+		"isbn" : "2537150562017"
+	},
+	{
+		"id" : 375,
+		"title" : "The Way of Kings Vol. 8",
+		"genre" : "Mystery",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1870,
+		"isbn" : "1597310216770"
+	},
+	{
+		"id" : 376,
+		"title" : "The Lost World Vol. 9",
+		"genre" : "Adventure",
+		"author" : "Jane Austen",
+		"published_year" : 1964,
+		"isbn" : "1232140603983"
+	},
+	{
+		"id" : 377,
+		"title" : "Brave New World Vol. 10",
+		"genre" : "Science Fiction",
+		"author" : "Harper Lee",
+		"published_year" : 1944,
+		"isbn" : "4438920102656"
+	},
+	{
+		"id" : 378,
+		"title" : "The Lost World Vol. 4",
+		"genre" : "Classic",
+		"author" : "Isaac Asimov",
+		"published_year" : 2012,
+		"isbn" : "7835076348613"
+	},
+	{
+		"id" : 379,
+		"title" : "The Lost World Vol. 10",
+		"genre" : "Dystopian",
+		"author" : "Mark Twain",
+		"published_year" : 1855,
+		"isbn" : "8136121993296"
+	},
+	{
+		"id" : 380,
+		"title" : "The Final Empire Vol. 6",
+		"genre" : "Horror",
+		"author" : "Mark Twain",
+		"published_year" : 1969,
+		"isbn" : "3855202692847"
+	},
+	{
+		"id" : 381,
+		"title" : "The Way of Kings Vol. 1",
+		"genre" : "Science Fiction",
+		"author" : "J.K. Rowling",
+		"published_year" : 1984,
+		"isbn" : "9165359868397"
+	},
+	{
+		"id" : 382,
+		"title" : "The Great Gatsby Vol. 8",
+		"genre" : "Science Fiction",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1966,
+		"isbn" : "9887360337453"
+	},
+	{
+		"id" : 383,
+		"title" : "The Shining Vol. 8",
+		"genre" : "Horror",
+		"author" : "J.K. Rowling",
+		"published_year" : 1901,
+		"isbn" : "6335494383756"
+	},
+	{
+		"id" : 384,
+		"title" : "The Great Gatsby Vol. 7",
+		"genre" : "Classic",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1901,
+		"isbn" : "5647558622093"
+	},
+	{
+		"id" : 385,
+		"title" : "The Great Gatsby Vol. 9",
+		"genre" : "Fantasy",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1916,
+		"isbn" : "2151150477540"
+	},
+	{
+		"id" : 386,
+		"title" : "The Shining Vol. 6",
+		"genre" : "Mystery",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1899,
+		"isbn" : "7852745637243"
+	},
+	{
+		"id" : 387,
+		"title" : "Pride and Prejudice Vol. 8",
+		"genre" : "Classic",
+		"author" : "Mark Twain",
+		"published_year" : 1861,
+		"isbn" : "3843549628971"
+	},
+	{
+		"id" : 388,
+		"title" : "Moby Dick Vol. 3",
+		"genre" : "Horror",
+		"author" : "H.G. Wells",
+		"published_year" : 1939,
+		"isbn" : "4462190697424"
+	},
+	{
+		"id" : 389,
+		"title" : "Fahrenheit 451 Vol. 2",
+		"genre" : "Classic",
+		"author" : "H.G. Wells",
+		"published_year" : 1989,
+		"isbn" : "2850889245515"
+	},
+	{
+		"id" : 390,
+		"title" : "It Vol. 5",
+		"genre" : "Adventure",
+		"author" : "Jane Austen",
+		"published_year" : 1859,
+		"isbn" : "7510224842850"
+	},
+	{
+		"id" : 391,
+		"title" : "1984 Vol. 7",
+		"genre" : "Science Fiction",
+		"author" : "Mark Twain",
+		"published_year" : 1913,
+		"isbn" : "3383559472492"
+	},
+	{
+		"id" : 392,
+		"title" : "Pride and Prejudice Vol. 8",
+		"genre" : "Dystopian",
+		"author" : "Ray Bradbury",
+		"published_year" : 2021,
+		"isbn" : "4055194975648"
+	},
+	{
+		"id" : 393,
+		"title" : "The Shining Vol. 1",
+		"genre" : "Fantasy",
+		"author" : "Aldous Huxley",
+		"published_year" : 1852,
+		"isbn" : "1125478249034"
+	},
+	{
+		"id" : 394,
+		"title" : "The Final Empire Vol. 6",
+		"genre" : "Thriller",
+		"author" : "Mark Twain",
+		"published_year" : 1951,
+		"isbn" : "2270249414422"
+	},
+	{
+		"id" : 395,
+		"title" : "Moby Dick Vol. 9",
+		"genre" : "Mystery",
+		"author" : "Mark Twain",
+		"published_year" : 1921,
+		"isbn" : "8443399055502"
+	},
+	{
+		"id" : 396,
+		"title" : "The Hobbit Vol. 4",
+		"genre" : "Classic",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 2012,
+		"isbn" : "2603828898292"
+	},
+	{
+		"id" : 397,
+		"title" : "To Kill a Mockingbird Vol. 10",
+		"genre" : "Horror",
+		"author" : "Stephen King",
+		"published_year" : 1896,
+		"isbn" : "9582916089196"
+	},
+	{
+		"id" : 398,
+		"title" : "Moby Dick Vol. 8",
+		"genre" : "Mystery",
+		"author" : "Mark Twain",
+		"published_year" : 1894,
+		"isbn" : "8101488832532"
+	},
+	{
+		"id" : 399,
+		"title" : "The Shining Vol. 5",
+		"genre" : "Classic",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1877,
+		"isbn" : "3415319591150"
+	},
+	{
+		"id" : 400,
+		"title" : "Pride and Prejudice Vol. 8",
+		"genre" : "Fantasy",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1931,
+		"isbn" : "3586450468664"
+	},
+	{
+		"id" : 401,
+		"title" : "It Vol. 1",
+		"genre" : "Adventure",
+		"author" : "Aldous Huxley",
+		"published_year" : 1859,
+		"isbn" : "9408275299696"
+	},
+	{
+		"id" : 402,
+		"title" : "The Way of Kings Vol. 1",
+		"genre" : "Mystery",
+		"author" : "J.K. Rowling",
+		"published_year" : 1892,
+		"isbn" : "6137368388356"
+	},
+	{
+		"id" : 403,
+		"title" : "Dune Vol. 2",
+		"genre" : "Thriller",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1937,
+		"isbn" : "6269202988445"
+	},
+	{
+		"id" : 404,
+		"title" : "It Vol. 3",
+		"genre" : "Adventure",
+		"author" : "H.G. Wells",
+		"published_year" : 2019,
+		"isbn" : "9345372138271"
+	},
+	{
+		"id" : 405,
+		"title" : "It Vol. 6",
+		"genre" : "Mystery",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1978,
+		"isbn" : "8908531517519"
+	},
+	{
+		"id" : 406,
+		"title" : "Pride and Prejudice Vol. 9",
+		"genre" : "Mystery",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1905,
+		"isbn" : "3441147392060"
+	},
+	{
+		"id" : 407,
+		"title" : "Neuromancer Vol. 2",
+		"genre" : "Dystopian",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1926,
+		"isbn" : "1445060854483"
+	},
+	{
+		"id" : 408,
+		"title" : "The Hobbit Vol. 2",
+		"genre" : "Classic",
+		"author" : "Harper Lee",
+		"published_year" : 1923,
+		"isbn" : "3427117149692"
+	},
+	{
+		"id" : 409,
+		"title" : "1984 Vol. 9",
+		"genre" : "Horror",
+		"author" : "George Orwell",
+		"published_year" : 1996,
+		"isbn" : "6450234014097"
+	},
+	{
+		"id" : 410,
+		"title" : "To Kill a Mockingbird Vol. 7",
+		"genre" : "Classic",
+		"author" : "Harper Lee",
+		"published_year" : 2004,
+		"isbn" : "9639199966308"
+	},
+	{
+		"id" : 411,
+		"title" : "The Final Empire Vol. 2",
+		"genre" : "Dystopian",
+		"author" : "George Orwell",
+		"published_year" : 1936,
+		"isbn" : "6912737068416"
+	},
+	{
+		"id" : 412,
+		"title" : "The Final Empire Vol. 2",
+		"genre" : "Dystopian",
+		"author" : "Mark Twain",
+		"published_year" : 1972,
+		"isbn" : "1941723088139"
+	},
+	{
+		"id" : 413,
+		"title" : "The Lost World Vol. 1",
+		"genre" : "Science Fiction",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1900,
+		"isbn" : "7537555561201"
+	},
+	{
+		"id" : 414,
+		"title" : "The Great Gatsby Vol. 6",
+		"genre" : "Dystopian",
+		"author" : "Aldous Huxley",
+		"published_year" : 1917,
+		"isbn" : "5758277228465"
+	},
+	{
+		"id" : 415,
+		"title" : "Moby Dick Vol. 9",
+		"genre" : "Classic",
+		"author" : "Jane Austen",
+		"published_year" : 1883,
+		"isbn" : "7018103563131"
+	},
+	{
+		"id" : 416,
+		"title" : "Moby Dick Vol. 3",
+		"genre" : "Fantasy",
+		"author" : "Harper Lee",
+		"published_year" : 1953,
+		"isbn" : "5853538670663"
+	},
+	{
+		"id" : 417,
+		"title" : "Brave New World Vol. 7",
+		"genre" : "Adventure",
+		"author" : "Ray Bradbury",
+		"published_year" : 1934,
+		"isbn" : "3627309768995"
+	},
+	{
+		"id" : 418,
+		"title" : "The Hobbit Vol. 2",
+		"genre" : "Classic",
+		"author" : "Aldous Huxley",
+		"published_year" : 1889,
+		"isbn" : "2461046346678"
+	},
+	{
+		"id" : 419,
+		"title" : "Moby Dick Vol. 7",
+		"genre" : "Dystopian",
+		"author" : "H.G. Wells",
+		"published_year" : 1877,
+		"isbn" : "2266565413391"
+	},
+	{
+		"id" : 420,
+		"title" : "1984 Vol. 1",
+		"genre" : "Mystery",
+		"author" : "George Orwell",
+		"published_year" : 2017,
+		"isbn" : "4921702151069"
+	},
+	{
+		"id" : 421,
+		"title" : "Neuromancer Vol. 1",
+		"genre" : "Horror",
+		"author" : "Aldous Huxley",
+		"published_year" : 1947,
+		"isbn" : "3354414442449"
+	},
+	{
+		"id" : 422,
+		"title" : "To Kill a Mockingbird Vol. 10",
+		"genre" : "Thriller",
+		"author" : "J.K. Rowling",
+		"published_year" : 1963,
+		"isbn" : "8908359038765"
+	},
+	{
+		"id" : 423,
+		"title" : "The Hobbit Vol. 9",
+		"genre" : "Horror",
+		"author" : "Isaac Asimov",
+		"published_year" : 1918,
+		"isbn" : "4253773977865"
+	},
+	{
+		"id" : 424,
+		"title" : "1984 Vol. 6",
+		"genre" : "Horror",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1897,
+		"isbn" : "4596001890255"
+	},
+	{
+		"id" : 425,
+		"title" : "Pride and Prejudice Vol. 10",
+		"genre" : "Thriller",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1898,
+		"isbn" : "6705637811288"
+	},
+	{
+		"id" : 426,
+		"title" : "Brave New World Vol. 2",
+		"genre" : "Classic",
+		"author" : "Mark Twain",
+		"published_year" : 1927,
+		"isbn" : "6887462083703"
+	},
+	{
+		"id" : 427,
+		"title" : "The Way of Kings Vol. 6",
+		"genre" : "Horror",
+		"author" : "Ray Bradbury",
+		"published_year" : 1931,
+		"isbn" : "1599349866264"
+	},
+	{
+		"id" : 428,
+		"title" : "Brave New World Vol. 2",
+		"genre" : "Thriller",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1912,
+		"isbn" : "9663986833474"
+	},
+	{
+		"id" : 429,
+		"title" : "The Way of Kings Vol. 10",
+		"genre" : "Thriller",
+		"author" : "Jane Austen",
+		"published_year" : 1966,
+		"isbn" : "5737657525419"
+	},
+	{
+		"id" : 430,
+		"title" : "The Final Empire Vol. 7",
+		"genre" : "Science Fiction",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1925,
+		"isbn" : "1788513373648"
+	},
+	{
+		"id" : 431,
+		"title" : "The Way of Kings Vol. 9",
+		"genre" : "Mystery",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1969,
+		"isbn" : "8293402610490"
+	},
+	{
+		"id" : 432,
+		"title" : "Moby Dick Vol. 7",
+		"genre" : "Mystery",
+		"author" : "Harper Lee",
+		"published_year" : 1875,
+		"isbn" : "9777446599646"
+	},
+	{
+		"id" : 433,
+		"title" : "Moby Dick Vol. 10",
+		"genre" : "Classic",
+		"author" : "Jane Austen",
+		"published_year" : 1953,
+		"isbn" : "6998759520653"
+	},
+	{
+		"id" : 434,
+		"title" : "The Final Empire Vol. 9",
+		"genre" : "Thriller",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1966,
+		"isbn" : "9396483154916"
+	},
+	{
+		"id" : 435,
+		"title" : "The Shining Vol. 7",
+		"genre" : "Adventure",
+		"author" : "Isaac Asimov",
+		"published_year" : 1850,
+		"isbn" : "2535797499639"
+	},
+	{
+		"id" : 436,
+		"title" : "The Final Empire Vol. 2",
+		"genre" : "Mystery",
+		"author" : "J.K. Rowling",
+		"published_year" : 1854,
+		"isbn" : "9802097760586"
+	},
+	{
+		"id" : 437,
+		"title" : "Neuromancer Vol. 2",
+		"genre" : "Dystopian",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1891,
+		"isbn" : "5537236641933"
+	},
+	{
+		"id" : 438,
+		"title" : "To Kill a Mockingbird Vol. 4",
+		"genre" : "Fantasy",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1941,
+		"isbn" : "2252975457476"
+	},
+	{
+		"id" : 439,
+		"title" : "The Hobbit Vol. 1",
+		"genre" : "Dystopian",
+		"author" : "Stephen King",
+		"published_year" : 1942,
+		"isbn" : "7731380767163"
+	},
+	{
+		"id" : 440,
+		"title" : "Pride and Prejudice Vol. 4",
+		"genre" : "Dystopian",
+		"author" : "Ray Bradbury",
+		"published_year" : 1923,
+		"isbn" : "3783365844366"
+	},
+	{
+		"id" : 441,
+		"title" : "It Vol. 2",
+		"genre" : "Dystopian",
+		"author" : "Brandon Sanderson",
+		"published_year" : 2021,
+		"isbn" : "4107738161446"
+	},
+	{
+		"id" : 442,
+		"title" : "It Vol. 3",
+		"genre" : "Classic",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1966,
+		"isbn" : "3577221768731"
+	},
+	{
+		"id" : 443,
+		"title" : "The Final Empire Vol. 3",
+		"genre" : "Classic",
+		"author" : "Stephen King",
+		"published_year" : 1893,
+		"isbn" : "5732142399562"
+	},
+	{
+		"id" : 444,
+		"title" : "Brave New World Vol. 6",
+		"genre" : "Dystopian",
+		"author" : "Ray Bradbury",
+		"published_year" : 1855,
+		"isbn" : "3714624167888"
+	},
+	{
+		"id" : 445,
+		"title" : "The Great Gatsby Vol. 2",
+		"genre" : "Mystery",
+		"author" : "Harper Lee",
+		"published_year" : 1861,
+		"isbn" : "3850663486058"
+	},
+	{
+		"id" : 446,
+		"title" : "1984 Vol. 2",
+		"genre" : "Fantasy",
+		"author" : "Aldous Huxley",
+		"published_year" : 1966,
+		"isbn" : "3131166048365"
+	},
+	{
+		"id" : 447,
+		"title" : "Dune Vol. 1",
+		"genre" : "Classic",
+		"author" : "Ray Bradbury",
+		"published_year" : 1966,
+		"isbn" : "2329719628024"
+	},
+	{
+		"id" : 448,
+		"title" : "To Kill a Mockingbird Vol. 8",
+		"genre" : "Thriller",
+		"author" : "Mark Twain",
+		"published_year" : 1854,
+		"isbn" : "8115285625429"
+	},
+	{
+		"id" : 449,
+		"title" : "It Vol. 8",
+		"genre" : "Classic",
+		"author" : "Mark Twain",
+		"published_year" : 1914,
+		"isbn" : "4468072109464"
+	},
+	{
+		"id" : 450,
+		"title" : "Moby Dick Vol. 7",
+		"genre" : "Thriller",
+		"author" : "Mark Twain",
+		"published_year" : 1919,
+		"isbn" : "9305043921599"
+	},
+	{
+		"id" : 451,
+		"title" : "The Shining Vol. 3",
+		"genre" : "Horror",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1921,
+		"isbn" : "4567941772321"
+	},
+	{
+		"id" : 452,
+		"title" : "Fahrenheit 451 Vol. 2",
+		"genre" : "Science Fiction",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1931,
+		"isbn" : "8038904149107"
+	},
+	{
+		"id" : 453,
+		"title" : "The Way of Kings Vol. 10",
+		"genre" : "Horror",
+		"author" : "George Orwell",
+		"published_year" : 1912,
+		"isbn" : "1421653766430"
+	},
+	{
+		"id" : 454,
+		"title" : "Moby Dick Vol. 8",
+		"genre" : "Classic",
+		"author" : "Jane Austen",
+		"published_year" : 1940,
+		"isbn" : "7081398550089"
+	},
+	{
+		"id" : 455,
+		"title" : "The Final Empire Vol. 5",
+		"genre" : "Horror",
+		"author" : "Ray Bradbury",
+		"published_year" : 1866,
+		"isbn" : "5339612616872"
+	},
+	{
+		"id" : 456,
+		"title" : "Pride and Prejudice Vol. 6",
+		"genre" : "Dystopian",
+		"author" : "Aldous Huxley",
+		"published_year" : 1976,
+		"isbn" : "7259528770803"
+	},
+	{
+		"id" : 457,
+		"title" : "To Kill a Mockingbird Vol. 6",
+		"genre" : "Fantasy",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 2001,
+		"isbn" : "8256375398073"
+	},
+	{
+		"id" : 458,
+		"title" : "The Way of Kings Vol. 5",
+		"genre" : "Horror",
+		"author" : "Mark Twain",
+		"published_year" : 1962,
+		"isbn" : "1859303669602"
+	},
+	{
+		"id" : 459,
+		"title" : "The Shining Vol. 4",
+		"genre" : "Dystopian",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1875,
+		"isbn" : "7160561296141"
+	},
+	{
+		"id" : 460,
+		"title" : "The Final Empire Vol. 5",
+		"genre" : "Horror",
+		"author" : "Stephen King",
+		"published_year" : 1934,
+		"isbn" : "2007180648482"
+	},
+	{
+		"id" : 461,
+		"title" : "The Final Empire Vol. 9",
+		"genre" : "Mystery",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1887,
+		"isbn" : "9977191810150"
+	},
+	{
+		"id" : 462,
+		"title" : "Brave New World Vol. 8",
+		"genre" : "Thriller",
+		"author" : "Jane Austen",
+		"published_year" : 2007,
+		"isbn" : "6717043206305"
+	},
+	{
+		"id" : 463,
+		"title" : "Dune Vol. 6",
+		"genre" : "Adventure",
+		"author" : "Ray Bradbury",
+		"published_year" : 1932,
+		"isbn" : "9286759015922"
+	},
+	{
+		"id" : 464,
+		"title" : "Pride and Prejudice Vol. 2",
+		"genre" : "Science Fiction",
+		"author" : "H.G. Wells",
+		"published_year" : 1928,
+		"isbn" : "8639267572097"
+	},
+	{
+		"id" : 465,
+		"title" : "Moby Dick Vol. 3",
+		"genre" : "Mystery",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1872,
+		"isbn" : "2484246473613"
+	},
+	{
+		"id" : 466,
+		"title" : "Fahrenheit 451 Vol. 1",
+		"genre" : "Thriller",
+		"author" : "J.K. Rowling",
+		"published_year" : 1970,
+		"isbn" : "1304412923981"
+	},
+	{
+		"id" : 467,
+		"title" : "Fahrenheit 451 Vol. 10",
+		"genre" : "Mystery",
+		"author" : "Mark Twain",
+		"published_year" : 1935,
+		"isbn" : "8512204775557"
+	},
+	{
+		"id" : 468,
+		"title" : "Neuromancer Vol. 6",
+		"genre" : "Classic",
+		"author" : "Harper Lee",
+		"published_year" : 1920,
+		"isbn" : "9733491267492"
+	},
+	{
+		"id" : 469,
+		"title" : "The Way of Kings Vol. 3",
+		"genre" : "Horror",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1857,
+		"isbn" : "7950999784803"
+	},
+	{
+		"id" : 470,
+		"title" : "Brave New World Vol. 10",
+		"genre" : "Adventure",
+		"author" : "Isaac Asimov",
+		"published_year" : 2016,
+		"isbn" : "9883569061663"
+	},
+	{
+		"id" : 471,
+		"title" : "The Final Empire Vol. 9",
+		"genre" : "Classic",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1877,
+		"isbn" : "8628073093573"
+	},
+	{
+		"id" : 472,
+		"title" : "Pride and Prejudice Vol. 6",
+		"genre" : "Mystery",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1851,
+		"isbn" : "3472055744120"
+	},
+	{
+		"id" : 473,
+		"title" : "1984 Vol. 1",
+		"genre" : "Classic",
+		"author" : "J.K. Rowling",
+		"published_year" : 2011,
+		"isbn" : "8396192805853"
+	},
+	{
+		"id" : 474,
+		"title" : "Pride and Prejudice Vol. 8",
+		"genre" : "Mystery",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1950,
+		"isbn" : "9632658133382"
+	},
+	{
+		"id" : 475,
+		"title" : "It Vol. 6",
+		"genre" : "Classic",
+		"author" : "George Orwell",
+		"published_year" : 1957,
+		"isbn" : "5900857968321"
+	},
+	{
+		"id" : 476,
+		"title" : "Brave New World Vol. 2",
+		"genre" : "Science Fiction",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1999,
+		"isbn" : "8992823700112"
+	},
+	{
+		"id" : 477,
+		"title" : "Pride and Prejudice Vol. 1",
+		"genre" : "Mystery",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1924,
+		"isbn" : "3089176553875"
+	},
+	{
+		"id" : 478,
+		"title" : "It Vol. 2",
+		"genre" : "Thriller",
+		"author" : "Mark Twain",
+		"published_year" : 2024,
+		"isbn" : "2539052901812"
+	},
+	{
+		"id" : 479,
+		"title" : "The Hobbit Vol. 3",
+		"genre" : "Thriller",
+		"author" : "Aldous Huxley",
+		"published_year" : 1929,
+		"isbn" : "3153425383034"
+	},
+	{
+		"id" : 480,
+		"title" : "Brave New World Vol. 8",
+		"genre" : "Thriller",
+		"author" : "Isaac Asimov",
+		"published_year" : 1971,
+		"isbn" : "6972268603416"
+	},
+	{
+		"id" : 481,
+		"title" : "Brave New World Vol. 4",
+		"genre" : "Horror",
+		"author" : "Harper Lee",
+		"published_year" : 1873,
+		"isbn" : "2422614732990"
+	},
+	{
+		"id" : 482,
+		"title" : "To Kill a Mockingbird Vol. 10",
+		"genre" : "Horror",
+		"author" : "Jane Austen",
+		"published_year" : 1850,
+		"isbn" : "3448733571709"
+	},
+	{
+		"id" : 483,
+		"title" : "To Kill a Mockingbird Vol. 6",
+		"genre" : "Science Fiction",
+		"author" : "Harper Lee",
+		"published_year" : 1949,
+		"isbn" : "5461282807572"
+	},
+	{
+		"id" : 484,
+		"title" : "Neuromancer Vol. 9",
+		"genre" : "Horror",
+		"author" : "Stephen King",
+		"published_year" : 1990,
+		"isbn" : "4405469474248"
+	},
+	{
+		"id" : 485,
+		"title" : "Moby Dick Vol. 1",
+		"genre" : "Classic",
+		"author" : "Brandon Sanderson",
+		"published_year" : 2013,
+		"isbn" : "5286169399387"
+	},
+	{
+		"id" : 486,
+		"title" : "The Final Empire Vol. 3",
+		"genre" : "Thriller",
+		"author" : "Brandon Sanderson",
+		"published_year" : 1915,
+		"isbn" : "5080023022394"
+	},
+	{
+		"id" : 487,
+		"title" : "The Great Gatsby Vol. 3",
+		"genre" : "Dystopian",
+		"author" : "J.K. Rowling",
+		"published_year" : 2019,
+		"isbn" : "5477759539695"
+	},
+	{
+		"id" : 488,
+		"title" : "Dune Vol. 8",
+		"genre" : "Science Fiction",
+		"author" : "Ray Bradbury",
+		"published_year" : 1931,
+		"isbn" : "8777833028530"
+	},
+	{
+		"id" : 489,
+		"title" : "The Great Gatsby Vol. 8",
+		"genre" : "Adventure",
+		"author" : "George Orwell",
+		"published_year" : 1853,
+		"isbn" : "2910791505989"
+	},
+	{
+		"id" : 490,
+		"title" : "Neuromancer Vol. 4",
+		"genre" : "Classic",
+		"author" : "F. Scott Fitzgerald",
+		"published_year" : 1902,
+		"isbn" : "7041681269849"
+	},
+	{
+		"id" : 491,
+		"title" : "To Kill a Mockingbird Vol. 8",
+		"genre" : "Classic",
+		"author" : "H.G. Wells",
+		"published_year" : 1992,
+		"isbn" : "8167382835912"
+	},
+	{
+		"id" : 492,
+		"title" : "The Shining Vol. 7",
+		"genre" : "Fantasy",
+		"author" : "Arthur C. Clarke",
+		"published_year" : 1931,
+		"isbn" : "4320378683058"
+	},
+	{
+		"id" : 493,
+		"title" : "Fahrenheit 451 Vol. 1",
+		"genre" : "Adventure",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 1884,
+		"isbn" : "6005707482533"
+	},
+	{
+		"id" : 494,
+		"title" : "The Great Gatsby Vol. 6",
+		"genre" : "Science Fiction",
+		"author" : "J.K. Rowling",
+		"published_year" : 2022,
+		"isbn" : "2083206323435"
+	},
+	{
+		"id" : 495,
+		"title" : "1984 Vol. 8",
+		"genre" : "Horror",
+		"author" : "Stephen King",
+		"published_year" : 1953,
+		"isbn" : "1309462275981"
+	},
+	{
+		"id" : 496,
+		"title" : "The Great Gatsby Vol. 2",
+		"genre" : "Adventure",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1983,
+		"isbn" : "1088916154423"
+	},
+	{
+		"id" : 497,
+		"title" : "The Great Gatsby Vol. 7",
+		"genre" : "Science Fiction",
+		"author" : "J.K. Rowling",
+		"published_year" : 1945,
+		"isbn" : "3140806173101"
+	},
+	{
+		"id" : 498,
+		"title" : "The Shining Vol. 4",
+		"genre" : "Dystopian",
+		"author" : "Ernest Hemingway",
+		"published_year" : 1902,
+		"isbn" : "4328594103135"
+	},
+	{
+		"id" : 499,
+		"title" : "It Vol. 5",
+		"genre" : "Fantasy",
+		"author" : "Stephen King",
+		"published_year" : 1917,
+		"isbn" : "7655636317512"
+	},
+	{
+		"id" : 500,
+		"title" : "The Final Empire Vol. 3",
+		"genre" : "Horror",
+		"author" : "J.R.R. Tolkien",
+		"published_year" : 2014,
+		"isbn" : "4659519050504"
+	}
+]}

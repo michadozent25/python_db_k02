@@ -12,6 +12,8 @@ def main():
     # repo.save(Book(title="Schönes Kochbuch",author="Maxe", genre="Sachbuch",published_year=2000))
     #print(repo.save(Book(title="Kochbuch2",author="Otto", genre="Sachbuch",published_year=2009)))
     repo.import_books("json/books.json")
+
+    repo.add_random_isbns()
     
 
     # all_books = repo.find_all()
@@ -22,7 +24,7 @@ def main():
     # del_book = repo.delete_by_id(1)
     # print("delete:", del_book)
 
-    print(repo.update( Book(id=1, title="Schönes neues Kochbuch")))
+    #print(repo.update( Book(id=1, title="Schönes neues Kochbuch")))
 
  
 
