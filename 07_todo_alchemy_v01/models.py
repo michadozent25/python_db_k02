@@ -13,14 +13,14 @@ class BaseRepr:
             for col in self.__table__.columns
         )
         return f"<{self.__class__.__name__}({fields})>"
-    
+ # N   
 class Todo(Base, BaseRepr):
      __tablename__="todos"
      id= Column(Integer,primary_key=True)
      task=Column(String(150),nullable=False)
      description=Column(Text)
      deadline=Column(Date)
-     state=Column(Enum("OPEM","IN_PRGRESS","DONE"), nullable=False, default="OPEN")
-
+     state=Column(Enum("OPEN","IN_PRGRESS","DONE"), nullable=False, default="OPEN")
+# 1
 class User(Base,BaseRepr):
     pass
