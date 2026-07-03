@@ -12,3 +12,5 @@ class TodoRepository():
         self.session.commit()
         self.session.refresh(todo) 
         return todo
+class UserRepository():
+    pass

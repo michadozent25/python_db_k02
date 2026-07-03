@@ -21,6 +21,11 @@ class Todo(Base, BaseRepr):
      description=Column(Text)
      deadline=Column(Date)
      state=Column(Enum("OPEN","IN_PRGRESS","DONE"), nullable=False, default="OPEN")
+     user=relationship("User",back_populates="todos")
 # 1
 class User(Base,BaseRepr):
-    pass
+    __tablename__="user"
+    id=Column(Integer, primary_key=True)
+    username = Column(String(20),nullable=False,unique=True)
+    password=Column(String(100))
+    todos=relationship("Todo",back_populates="user",cascade="all, delete-orphan")
