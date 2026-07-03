@@ -14,8 +14,18 @@ def main():
     user_repo.create(u1)
 
     t1 = Todo(task="sport",description="schwimmen")
+    t2 = Todo(task="einkaufen",description="Brot")
+    t3 = Todo(task="lesen",description="schönes Buch")
+
+
 
     print(todo_repo.new_todo_by_user(u1.id,t1))
+    print(todo_repo.new_todo_by_user(u1.id,t2))
+    print(todo_repo.new_todo_by_user(u1.id,t3))
+
+    todo_repo.update_todo_state(t1.id,"DONE")
+
+    print(todo_repo.find_todo_by_user(u1.id))
 
    
 if __name__=="__main__":
