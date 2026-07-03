@@ -7,12 +7,12 @@
 
 ## Aufgabe
 
-1. Kompletiere die models.py User-Klasse ->  1: N-Beziehung
-2. crud.py   mindestend noch find_all()-> list[Todo]  zum Testen
-3. main.py:
-   1.  lösche und erzeuge Schema ( Base.metadata.drop_all(engine),  Base.metadata.create_all(engine))
-   2. Erzeuge Todo-Objekt
-   3. Erzeuge User-Objekt
-   4. append / hinzufügen dem User 2 Todos
-   5. save(Todo) -> Todo Speichern
 
+### Implementiere die folgenden Methoden
+* find_open_todos_by_user (TodoRepository)
+* delete_todo  (TodoRepository)
+* delete_all_done_todos  (TodoRepository)
+* delete_user  (UserRepository)
+* find_user_by_id  (UserRepository)
+* Weitere/Andere Ideen?
+* -> Teste in der main
