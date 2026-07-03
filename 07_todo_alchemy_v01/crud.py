@@ -23,7 +23,6 @@ class TodoRepository():
     
 
     def update_todo_state(self, todo_id:int, new_state:str)->Todo | None:
-        # TODO check new_state
         allowed = {"OPEN","IN_PROGRESS","DONE"}
         if new_state not in allowed:
             raise ValueError(f"Invalid State, allowed: {allowed}")
