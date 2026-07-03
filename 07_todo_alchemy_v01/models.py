@@ -21,6 +21,7 @@ class Todo(Base, BaseRepr):
      description=Column(Text)
      deadline=Column(Date)
      state=Column(Enum("OPEN","IN_PRGRESS","DONE"), nullable=False, default="OPEN")
+     user_id=Column(Integer, ForeignKey("user.id"),nullable=False)
      user=relationship("User",back_populates="todos")
 # 1
 class User(Base,BaseRepr):
