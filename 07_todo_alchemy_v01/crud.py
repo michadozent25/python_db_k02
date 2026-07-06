@@ -48,8 +48,42 @@ class TodoRepository():
             .all()
         )
 
+    def find_open_todos_by_user(self,user_id:int)->list[Todo]:
+        return (
+            self.session.query(Todo)
+            .filter(
+                Todo.user_id == user_id,
+                Todo.state == "OPEN"
+            )
+            .all()
 
+        )
     
+    def delete_todo(self, todo_id:int)-> Todo | None:
+        """ """
+        todo = self.session.get(Todo,todo_id)
+        if todo is  None:
+            return None
+  
+        self.session.delete(todo)
+        self.session.commit()
+        return todo
+
+
+    def delete_all_done_todos(self,user_id:int)->int:
+        todos = (
+            self.session.query(Todo)
+            .filter(
+                Todo.user_id == user_id,
+                Todo.state == "DONE"
+            )
+            .all()
+        )
+        count = len(todos)
+        for todo in todos:
+            self.session.delete(todo)
+        self.session.commit()
+        return  count
 
 class UserRepository():
     def __init__(self, session:Session):
@@ -59,3 +93,14 @@ class UserRepository():
         self.session.commit()
         self.session.refresh(user) 
         return user
+    
+    def delete_user(self, user_id:int)-> User | None:
+        user = self.session.get(User, user_id)
+        if user is None:
+            return None
+        self.session.delete(user)
+        self.session.commit()
+        return user
+
+    def find_user_by_id(self, user_id:int)-> User | None:
+        return self.session.get(User, user_id)
