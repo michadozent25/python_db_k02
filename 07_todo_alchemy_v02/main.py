@@ -11,21 +11,19 @@ def main():
     todo_repo = TodoRepository(session)
 
     u1 = User(username="max",password="123")
-    user_repo.create(u1)
-
-    t1 = Todo(task="sport",description="schwimmen")
-    t2 = Todo(task="einkaufen",description="Brot")
-    t3 = Todo(task="lesen",description="schönes Buch")
+    create_user = user_repo.create(u1)
 
 
+    logged_in = user_repo.find_user_by_credentials("max","123")
 
-    print(todo_repo.new_todo_by_user(u1.id,t1))
-    print(todo_repo.new_todo_by_user(u1.id,t2))
-    print(todo_repo.new_todo_by_user(u1.id,t3))
+    if logged_in is not None:
+        print("Login erfolgreich!", logged_in)
 
-    todo_repo.update_todo_state(t1.id,"DONE")
 
-    print(todo_repo.find_todo_by_user(u1.id))
+    logged_in2 = user_repo.find_user_by_credentials("max","1111")
+
+    if logged_in is  None:
+        print("Login nicht erfolgreich!", logged_in2)
 
    
 if __name__=="__main__":
