@@ -104,3 +104,11 @@ class UserRepository():
 
     def find_user_by_id(self, user_id:int)-> User | None:
         return self.session.get(User, user_id)
+    
+    def find_user_by_credentials(self, username:str, password:str)->User |None:
+        """ 
+        Nötig für einen späteren Login-Vorgang
+        - User aus DB holen
+        - Passwort check (util.py:verify_password)  
+        - User oder None zurückgeben
+        """

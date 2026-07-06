@@ -1,18 +1,10 @@
 # Todolist
-## Version 01
-
-
+## Version 02
 
 * 1 User hat N Todos
+* User mit Passwordverschlüsselung
 
 ## Aufgabe
-
-
-### Implementiere die folgenden Methoden
-* find_open_todos_by_user (TodoRepository)
-* delete_todo  (TodoRepository)
-* delete_all_done_todos  (TodoRepository)
-* delete_user  (UserRepository)
-* find_user_by_id  (UserRepository)
-* Weitere/Andere Ideen?
-* -> Teste in der main
+* Todo-App soll mit Passwortverschlüsseleung funktionieren
+* UserRepository: create(User) modifizieren, dass User mit verschlüsseltem Passwort 
+  gespeichert werden (util.py-> hash_password(...))
