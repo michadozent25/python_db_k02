@@ -1,5 +1,6 @@
 # bcrypt
 * pip install bcrypt 
+  ```
     $2b$12$KbQiHKENeLGNHDmYgwnM2uPj3Vu1AIgdrkQoUApPeuVm5YhFUhVnG
     │   │  │                     │
     │   │  │                     └─ Hash-Wert: 31 Zeichen
