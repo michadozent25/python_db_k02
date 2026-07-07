@@ -1,6 +1,7 @@
 from models import Todo,User
 from sqlalchemy.orm import Session
 from sqlalchemy import text,select
+from util import hash_password, verify_password
 
 class TodoRepository():
     def __init__(self, session:Session):
@@ -89,6 +90,13 @@ class UserRepository():
     def __init__(self, session:Session):
         self.session=session
     def create(self, user:User) -> User:
+
+        existing = self.session.query(User).filter(User.username==user.username).first()
+        if existing:
+
+            raise ValueError("User existiert bereits!")
+
+        user.password= hash_password(user.password)
         self.session.add(user)
         self.session.commit()
         self.session.refresh(user) 
@@ -105,10 +113,15 @@ class UserRepository():
     def find_user_by_id(self, user_id:int)-> User | None:
         return self.session.get(User, user_id)
     
-    def find_user_by_credentials(self, username:str, password:str)->User |None:
+    def find_user_by_credentials(self, username:str, password:str)->User | None:
         """ 
         Nötig für einen späteren Login-Vorgang
         - User aus DB holen
         - Passwort check (util.py:verify_password)  
         - User oder None zurückgeben
         """
+        stored_user = self.session.query(User).filter(User.username ==username).first()
+        if not stored_user:
+            return None
+
+        return  stored_user if  verify_password(password  ,  stored_user.password ) else None
