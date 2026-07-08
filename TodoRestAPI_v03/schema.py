@@ -15,7 +15,7 @@ class UserRead(UserBase):
     todos:list[TodoRead] = []
 
 #--------------------------Todo----------------
-class TodoState(Enum):
+class TodoState(str,Enum):
     OPEN="OPEN"
     IN_PROGRESS="IN_PROGRESS"
     DONE="DONE"
@@ -25,7 +25,7 @@ class TodoBase(BaseModel):
     description:str | None = None
     deadline:date | None = None
     state:TodoState = TodoState.OPEN
-    # FIXME user_id 
+    # FIXME user_id ?
 
 class TodoCreate(TodoBase):
     pass
