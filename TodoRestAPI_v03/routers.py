@@ -23,3 +23,17 @@ def create_todo_by_userid(user_id:int,todo_create:TodoCreate, db:Session =Depend
     new_todo = Todo(**todo_create.model_dump())
 
     return repo.new_todo_by_user(user_id,new_todo)
+
+# Aufgabe 
+@todo_router.get(...)
+def get_all_todos_by_userid(...):
+    pass
+
+@user_router.get(...)
+def get_all_users(...):
+    pass
+
+
+@todo_router.get(...)
+def get_all_open_todos_by_userid(...):
+    pass
