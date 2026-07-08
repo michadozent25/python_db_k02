@@ -3,7 +3,7 @@ from sqlalchemy import Column, Integer, String
 
 class User(Base):
     __tablename__ ="user"
-    id = Column(Integer,primary_key=True)# default auto_increment
+    id = Column(Integer,primary_key=True, autoincrement=True)# default auto_increment
     name = Column(String(50),nullable=False)
     email = Column(String(50),nullable=False, unique=True)
 

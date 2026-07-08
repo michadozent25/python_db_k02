@@ -1,4 +1,4 @@
-from pydantic import BaseModel, EmailStr
+from pydantic import BaseModel, EmailStr, Field
 
 class UserRead(BaseModel):
     id:int
@@ -6,5 +6,5 @@ class UserRead(BaseModel):
     email:EmailStr
 
 class UserCreate(BaseModel):
-    name:str
+    name:str = Field(min_length=2, max_length=20)
     email:EmailStr
