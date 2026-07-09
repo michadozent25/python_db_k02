@@ -125,3 +125,6 @@ class UserRepository():
             return None
 
         return  stored_user if  verify_password(password  ,  stored_user.password ) else None
+    def find_all(self) -> list[User]:
+            user = self.session.query(User).all()
+            return user

@@ -33,3 +33,7 @@ class TodoCreate(TodoBase):
 class TodoRead(TodoBase):
     id:int
     user_id:int
+
+class UserLogin(BaseModel):
+    username:str
+    password:str
