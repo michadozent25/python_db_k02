@@ -16,7 +16,7 @@ def create_user(user_create:UserCreate, db:Session =Depends(get_db)):
     new_user = User(username=user_create.username,
                     password=user_create.password)
     return repo.create(new_user)
-
+# http:/localhost:8000/todo?user_id=1
 @todo_router.post("/",response_model=TodoRead) # oder user_id im Pfad "/{user_id}/todos"
 def create_todo_by_userid(user_id:int,todo_create:TodoCreate, db:Session =Depends(get_db)):
     repo = TodoRepository(db)

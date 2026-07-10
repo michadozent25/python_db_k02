@@ -3,6 +3,7 @@ from sqlalchemy.orm import sessionmaker, declarative_base, Session
 from typing import Generator
 
 
+#DATABASE_URL = "postgresql+psycopg://username:passwort@localhost:5432/datenbankname"
 DATABASE_URL =  "sqlite:///todo.db"
 #DATABASE_URL ="mysql+pymysql://root:@localhost:3306/db_python05"
 
