@@ -5,9 +5,7 @@ import requests
 BASE_URL = "http://127.0.0.1:8000"  # uvicorn-> restapi
 
 
-response = requests.get(f"{BASE_URL}/users")
 
-st.table(response.json())
 
 def login():
 
@@ -76,4 +74,3 @@ if st.session_state["logged_in"] and "user" in st.session_state:
     welcome()
 else:
     login()
-
